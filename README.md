@@ -17,7 +17,7 @@ Spring 2023.
 
 * [lecture 1 slides PDF](lecture1.pdf)
     * Additional notes on reasoning with data are written live. 
-    * [notes version of the slides above](lecture1handout.html) $$\leftarrow$$ same content as slides
+    * [notes version of the slides above](lecture1handout.html) $\leftarrow$ same content as slides
  * [lecture 2 content plan](lecture2.html)
     
     
