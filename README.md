@@ -1,16 +1,34 @@
 # algstat561
 
+Algebraic and geometric methods in statistics 
 
-make as a clone of 514 for 561:
+Spring 2023. 
 
-# StatsAnalytics
-Some of the notes for course materials on Applied Computational Statistics for Analytics, ITMD/ITMS/STAT 514 offered at Illinois Tech.
 
-## Overview
-The course materials were developed during Fall 2020 and Spring 2021. Future updates will be posted as the course evolves. 
 
 ## Course info
-[Here](https://www.sonjapetrovicstats.com/teaching/514sp21) is the course homepage for the recent semester, Spring 2021, which contains the course syllabus, topics, and more information. 
+[Here](https://www.sonjapetrovicstats.com/teaching/561sp23) is the course homepage, which contains the course syllabus, topics, and more information. 
+
+
+
+### Schedule 
+
+#### Week 1 - invitation to algebraic statistics 
+
+* [lecture 1 slides PDF](lecture1.pdf)
+    * Additional notes on reasoning with data are written live. 
+    * [notes version of the slides above](lecture1handout.html) $$\leftarros$$ same content as slides
+ * [lecture 2 content plan](lecture2.html)
+    
+    
+ ## Useful Info 
+    
+* Interlude: create your first .Rmd file!   All of your HW will be submitted using markdown and html/pdf. Here are some templates, just so you know what to expect:
+    * [514-hw-template.Rmd](514-hw-template.Rmd)
+    * [514-hw-template.html](514-hw-template.html)
+    * [514-hw-template.pdf](514-hw-template.pdf)
+
+
 
 ## Types of files
 
@@ -20,15 +38,3 @@ The course materials were developed during Fall 2020 and Spring 2021. Future upd
 	1) for students to see how the basic HTML is generated, and 
 	2) to enable collaborators to make updates to the materials in future semesters. 
 
-
-
-### Schedule 
-
-#### Week 1 - Reasoning with data / framework for viewing data 
-
-* [lecture slides PDF](514-slides-day1-welcome.pdf)
-    * Additional notes on reasoning with data are written live. 
-* Interlude: create your first .Rmd file!   All of your HW will be submitted using markdown and html/pdf. Here are some templates, just so you know what to expect:
-    * [514-hw-template.Rmd](514-hw-template.Rmd)
-    * [514-hw-template.html](514-hw-template.html)
-    * [514-hw-template.pdf](514-hw-template.pdf)
