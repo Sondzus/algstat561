@@ -1,6 +1,6 @@
 #### Week 1 - invitation to algebraic statistics 
 
-* [lecture 1 slides PDF](https://sondzus.github.io/algstat561/lecture1.pdf)
+* [lecture 1 slides PDF](lecture1.pdf)
     * Additional notes on reasoning with data are written live. 
     * [notes version of the slides above](https://htmlpreview.github.io/?https://github.com/Sondzus/algstat561/blob/main/lecture1handout.html) $\leftarrow$ same content as slides
  * [lecture 2 content plan](https://htmlpreview.github.io/?https://github.com/Sondzus/algstat561/blob/main/lecture2.html)
