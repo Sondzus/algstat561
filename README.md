@@ -5,14 +5,15 @@
     * [notes version of the slides above](lecture1handout.html) $\leftarrow$ same content as slides
  * [lecture 2 content plan](lecture2.html)
  
-> Homework 2 assigned. [due 1/18/2023](hw1.pdf)
+> Homework 1 assigned. [due 1/18/2023](hw1.pdf)
     
 #### Week 2 - limiting distributions and why worry about which model fits the data
 
 * [lecture 3 slides PDF](lecture3.pdf) **note this is only half of the planned content as of 1/12/23**
 * [additional handout on sampling distributions](lecture3-additionalhandout-563-SamplingDistributions.html)
     
- ## Useful Info 
+
+## Useful Info 
     
 * Interlude: create your first .Rmd file!   All of your HW will be submitted using markdown and html/pdf. Here are some templates, just so you know what to expect:
     * [514-hw-template.Rmd](https://github.com/Sondzus/StatsAnalytics/blob/master/514-hw-template.Rmd)
