@@ -1,3 +1,4 @@
+<!--
 # algstat561
 
 Algebraic and geometric methods in statistics 
@@ -12,6 +13,8 @@ Spring 2023.
 
 
 ### Schedule 
+
+-->
 
 #### Week 1 - invitation to algebraic statistics 
 
