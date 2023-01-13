@@ -1,21 +1,3 @@
-<!--
-# algstat561
-
-Algebraic and geometric methods in statistics 
-
-Spring 2023. 
-
-
-
-## Course info
-[Here](https://www.sonjapetrovicstats.com/teaching/561sp23) is the course homepage, which contains the course syllabus, topics, and more information. 
-
-
-
-### Schedule 
-
--->
-
 #### Week 1 - invitation to algebraic statistics 
 
 * [lecture 1 slides PDF](lecture1.pdf)
