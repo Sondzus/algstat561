@@ -1,8 +1,8 @@
 #### Week 1 - invitation to algebraic statistics 
 
-* [lecture 1 slides PDF](https://sondzus.github.io/algstat561/lecture1.pdf)
+* [lecture 1 slides PDF](https://pdfpreview.github.io/?https://sondzus.github.io/algstat561/lecture1.pdf)
     * Additional notes on reasoning with data are written live. 
-    * [notes version of the slides above](https://htmlpreview.github.io/?https://github.com/Sondzus/algstat561/blob/main/lecture1handout.html) $\leftarrow$ same content as slides
+    * [notes version of the slides above](lecture1handout.html) $\leftarrow$ same content as slides
  * [lecture 2 content plan](https://htmlpreview.github.io/?https://github.com/Sondzus/algstat561/blob/main/lecture2.html)
     
 #### Week 2 - limiting distributions and why worry about which model fits the data
@@ -10,7 +10,8 @@
 * [lecture 3 slides PDF](lecture3.pdf) **note this is only half of the planned content as of 1/12/23**
 * [additional handout on sampling distributions](https://htmlpreview.github.io/?https://github.com/Sondzus/algstat561/blob/main/lecture3-additionalhandout-563-SamplingDistributions.html)
     
- ## Useful Info 
+
+## Useful Info 
     
 * Interlude: create your first .Rmd file!   All of your HW will be submitted using markdown and html/pdf. Here are some templates, just so you know what to expect:
     * [514-hw-template.Rmd](https://github.com/Sondzus/StatsAnalytics/blob/master/514-hw-template.Rmd)
