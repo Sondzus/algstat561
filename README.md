@@ -20,6 +20,10 @@ Spring 2023.
     * [notes version of the slides above](https://htmlpreview.github.io/?https://github.com/Sondzus/algstat561/blob/main/lecture1handout.html) $\leftarrow$ same content as slides
  * [lecture 2 content plan](https://htmlpreview.github.io/?https://github.com/Sondzus/algstat561/blob/main/lecture2.html)
     
+#### Week 2 - limiting distributions and why worry about which model fits the data
+
+* [lecture 3 slides PDF](lecture3.pdf) **note this is only half of the planned content as of 1/12/23**
+* [additional handout on sampling distributions](https://htmlpreview.github.io/?https://github.com/Sondzus/algstat561/blob/main/lecture3-additionalhandout-563-SamplingDistributions.html)
     
  ## Useful Info 
     
