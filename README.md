@@ -4,6 +4,8 @@
     * Additional notes on reasoning with data are written live. 
     * [notes version of the slides above](lecture1handout.html) $\leftarrow$ same content as slides
  * [lecture 2 content plan](lecture2.html)
+ 
+> Homework 2 assigned. [due 1/18/2023](hw1.pdf)
     
 #### Week 2 - limiting distributions and why worry about which model fits the data
 
