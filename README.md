@@ -2,16 +2,16 @@
 
 * [lecture 1 slides PDF](lecture1.pdf)
     * Additional notes on reasoning with data are written live. 
-    * [notes version of the slides above](lecture1handout.html) $\leftarrow$ same content as slides
+    * [notes version of the slides above](lecture1handout.html) <-- same content as slides
  * [lecture 2 content plan](lecture2.html)
  
 > Homework 1 assigned. [due 1/18/2023](hw1.pdf)
     
 #### Week 2 - limiting distributions and why worry about which model fits the data
 
-* [lecture 3 slides PDF](lecture3.pdf) **note this is only half of the planned content as of 1/12/23**
+* [lecture 3 slides PDF](lecture3.pdf) 
 * [additional handout on sampling distributions](lecture3-additionalhandout-563-SamplingDistributions.html)
-    
+* [in-class worksheet](ws1.pdf)  <-- *[Worksheet material from Kaie Kubjas, Aalto University, used with her permission.]*
 
 ## Useful Info 
     
