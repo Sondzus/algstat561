@@ -12,6 +12,12 @@
 * [lecture 3 slides PDF](lecture3.pdf) 
 * [additional handout on sampling distributions](lecture3-additionalhandout-563-SamplingDistributions.html)
 * [in-class worksheet](ws1.pdf)  <-- *[Worksheet material from Kaie Kubjas, Aalto University, used with her permission.]*
+* [post-lecture additional notes](lecture3-additionalhandout-marginalizing.html) 
+
+#### Week 3 - 
+
+The plan is to cover the remainder of section 4.1 in the book. We will talk about the algebra / geometry behind conditional independence models.
+**It is important to be familiar with the independence concepts so that you can better understand the lecture.**
 
 ## Useful Info 
     
