@@ -1336,7 +1336,9 @@ x_{[m]\backslash A}
 means <span class="math inline">\(A\)</span> is denoting the
 sub-collection of the random variables <span class="math inline">\(X_A\)</span> indexed by the set <span class="math inline">\(A\)</span>.</p>
 <ul>
-<li>For example if <span class="math inline">\([m]=[3]=\{1,2,3\}\)</span>, maybe <span class="math inline">\(A=\{1,2\}\)</span> so that is referring to <span class="math inline">\(X_1\)</span> and <span class="math inline">\(X_2\)</span>.</li>
+<li>For example if <span class="math inline">\([m]=[3]=\{1,2,3\}\)</span>, maybe <span class="math inline">\(A=\{1,2\}\)</span> so that is referring to <span class="math inline">\(X_1\)</span> and <span class="math inline">\(X_2\)</span>. In this case, the notation
+$<em>{x</em>{[m]A}} $ simply means <span class="math inline">\(\int_{x_3}\)</span>, that is, integrate out all
+the values <span class="math inline">\(X_3\)</span> can take.</li>
 </ul>
 <p>Next, the ‘marginal density <span class="math inline">\(f_A(x_A)\)</span> of <span class="math inline">\(X_A\)</span>’ is referring to the joint density of
 the variables in the set <span class="math inline">\(A\)</span>, but not
@@ -1355,11 +1357,16 @@ write <span class="math inline">\(p_{ij}\)</span>; rather, we write
 the marginal probability (density) for the first two variables and the
 third one is integrated out.</li>
 </ul>
+<p>As you have seen in worksheet 1, part (ii) of the proof of the CI
+(CI=conditional independence) axioms, marginalizing over a set of
+variables has the effect of making them ‘disappear’ from conditional
+independence statements – they are still there, just summed over.</p>
 <div id="further-examples" class="section level2">
 <h2>Further examples</h2>
 <blockquote>
 <p>Please check out <a href="https://online.stat.psu.edu/stat504/lesson/5/5.1">this lovely
-lesson “5.1 - Notation and Structure”</a> from a Penn State course.</p>
+lesson “5.1 - Notation and Structure”</a> from a Penn State course on
+discrete data analysis.</p>
 </blockquote>
 <p>The link contains examples of the following relevant concepts:
 <strong>marginal data</strong>, <strong>joint distributions</strong>,
