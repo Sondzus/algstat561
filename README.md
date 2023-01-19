@@ -7,17 +7,20 @@
  
 > Homework 1 assigned. [due 1/18/2023](hw1.pdf)
     
-#### Week 2 - limiting distributions and why worry about which model fits the data
+#### Week 2 - limiting distributions, why worry about which model fits the data, and intro to conditinoal independence
 
 * [lecture 3 slides PDF](lecture3.pdf) 
 * [additional handout on sampling distributions](lecture3-additionalhandout-563-SamplingDistributions.html)
 * [in-class worksheet](ws1.pdf)  <-- *[Worksheet material from Kaie Kubjas, Aalto University, used with her permission.]*
 * [post-lecture additional notes](lecture3-additionalhandout-marginalizing.html) 
 
-#### Week 3 - 
+#### Week 3 - the algebra of conditional independence
 
 The plan is to cover the remainder of section 4.1 in the book. We will talk about the algebra / geometry behind conditional independence models.
 **It is important to be familiar with the independence concepts so that you can better understand the lecture.**
+
+* [lecture 4 slides PDF](lecture4.pdf) 
+* [in-class worksheet](ws2.pdf) 
 
 ## Useful Info 
     
