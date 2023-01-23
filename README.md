@@ -5,7 +5,7 @@
     * [notes version of the slides above](lecture1handout.html) <-- same content as slides
  * [lecture 2 content plan](lecture2.html)
  
-> Homework 1 assigned. [due 1/18/2023](hw1.pdf)
+> Homework 1 assigned. [due 1/18/2023->1/19/2023](hw1.pdf)
     
 #### Week 2 - limiting distributions, why worry about which model fits the data, and intro to conditinoal independence
 
@@ -22,6 +22,14 @@ The plan is to cover the remainder of section 4.1 in the book. We will talk abou
 * [lecture 4 slides PDF](lecture4.pdf) 
 	* there is a typo on slide 8. can you spot it? (hint: which variable is non-binary...) 
 * [in-class worksheet](ws2.pdf) 
+
+And what happens with Gaussian models? 
+
+* [lecture 5 slides PDF] will be posted by Wednesday. 
+
+> Homework 2 will be assigned later this week. [due during week 5.] 
+
+---- 
 
 ## Useful Info 
     
