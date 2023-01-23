@@ -20,6 +20,7 @@ The plan is to cover the remainder of section 4.1 in the book. We will talk abou
 **It is important to be familiar with the independence concepts so that you can better understand the lecture.**
 
 * [lecture 4 slides PDF](lecture4.pdf) 
+	* there is a typo on slide 8. can you spot it? (hint: which variable is non-binary...) 
 * [in-class worksheet](ws2.pdf) 
 
 ## Useful Info 
