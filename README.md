@@ -5,7 +5,7 @@
     * [notes version of the slides above](lecture1handout.html) <-- same content as slides
  * [lecture 2 content plan](lecture2.html)
  
-> Homework 1 assigned. [due 1/18/2023->1/19/2023](hw1.pdf)
+> Homework 1 assigned. [due 1/18/2023->1/24/2023](hw1.pdf)
     
 #### Week 2 - limiting distributions, why worry about which model fits the data, and intro to conditinoal independence
 
