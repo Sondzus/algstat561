@@ -31,9 +31,40 @@ The plan is to cover the remainder of section 4.1 in the book. We will talk abou
 ### Day 2: Gaussian random variables 
 
 * [lecture 5 slides PDF](lecture5.pdf)  
- 	* and a [snippet](ws3-present-M2-lec5.m2) of M2 code for lecture demonstration & example.
+ 	* and a [snippet](ws3-present-M2-lec5.m2) of M2 code for lecture demonstration & example. 
 
-For students, here are questions to *verify*: 
+#### Discussion of m2 code snippet 
+
+Go to [M2 in the cloud](https://www.unimelb-macaulay2.cloud.edu.au/#home), Start Macaulay2, and type the following two commands: 
+```
+loadPackage "GraphicalModels"
+R=gaussianRing 4;
+``` 
+Next, verify the example we did in class by defining the 2 statements (each is a list of lists): 
+```
+twoStatements = {{{1},{3},{2}}, {{1},{3},{}}} 
+I = conditionalIndependenceIdeal (R,twoStatements) 
+```
+
+As we worked through slide #6 in Lecture#5, we wrote the following decomposition of the model into a union of two linear spaces: 
+```
+primaryDecomposition I
+```
+Remember, computers operate on ideals of polynomials to describe the decompositinon of the corresponding variety into a union of irreducibles. 
+
+
+Now, here is a slightly different example from page 18 of [this tutorial](https://faculty.math.illinois.edu/Macaulay2/Events/Workshop2017Atlanta-files/Day2/Thomas/GaussianCI.pdf):
+```
+twoStatements = {{{1},{2},{3}}, {{1},{3},{}}} 
+I = conditionalIndependenceIdeal (R,twoStatements) 
+primaryDecomposition I
+```
+What do you see? 
+
+	* Does the second compoment in the output ensure that the covariance matrix is positive definite? 
+	* What is the CI statement corresponding to the first component? 
+
+For students, here are **questions to *verify***: 
 
 * What is a positive definite matrix? That is,  $$\Sigma\in PD_m$$  means what, exactly? 
 * What is the density of a Gaussian random vector? 
