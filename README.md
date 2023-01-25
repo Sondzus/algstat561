@@ -35,9 +35,9 @@ The plan is to cover the remainder of section 4.1 in the book. We will talk abou
 
 For students, here are questions to *verify*: 
 
-	* What is a positive definite matrix? That is,  $$\Sigma\in PD_m$$  means what, exactly? 
-	* What is the density of a Gaussian random vector? 
-	* How do you compute covariance (that is, entries in the matrix $\Sigma$)?
+* What is a positive definite matrix? That is,  $$\Sigma\in PD_m$$  means what, exactly? 
+* What is the density of a Gaussian random vector? 
+* How do you compute covariance (that is, entries in the matrix $\Sigma$)?
 	
 Things to *review*:  
 Understanding some of the material in here, which is still in section 4.1 of the textbook, requires digesting the normal distribution notation from Chapter 2. ( These are standard concepts you most likely have seen in some statistics course before.) Specific results you need to review are stated in the slides at the beginning of the lecture. 
