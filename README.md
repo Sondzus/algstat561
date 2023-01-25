@@ -28,9 +28,9 @@ Day 1: discrete random variables
 
 Day 2: Gaussian random variables 
 
-* [lecture 5 slides PDF] will be posted by Wednesday. 
+* [lecture 5 slides PDF](lecture5.pdf) 
 	* Questions to verify: 
-		* What is a positive definite matrix? That is, " $\Sigma\in PD_m$" means what? 
+		* What is a positive definite matrix? That is,  $$\Sigma\in PD_m$$  means what, exactly? 
 		* What is the density of a Gaussian random vector? 
 		* How do you compute covariance (that is, entries in the matrix $\Sigma$)? 
 	* Things to review: 
@@ -42,7 +42,7 @@ Day 2: Gaussian random variables
 
 ## Useful Info 
     
-* Interlude: create your first .Rmd file!   All of your HW will be submitted using markdown and html/pdf. Here are some templates, just so you know what to expect:
+Sample files: how to create your first .Rmd file!   All of your HW can be submitted using markdown and html/pdf. Here are some templates I created for another course, just so you know what to expect:
     * [514-hw-template.Rmd](https://github.com/Sondzus/StatsAnalytics/blob/master/514-hw-template.Rmd)
     * [514-hw-template.html](https://htmlpreview.github.io/?https://github.com/Sondzus/StatsAnalytics/blob/master/514-hw-template.html)
     * [514-hw-template.pdf](https://github.com/Sondzus/StatsAnalytics/blob/master/514-hw-template.pdf)
