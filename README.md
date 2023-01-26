@@ -32,37 +32,7 @@ The plan is to cover the remainder of section 4.1 in the book. We will talk abou
 
 * [lecture 5 slides PDF](lecture5.pdf)  
  	* and a [snippet](ws3-present-M2-lec5.m2) of M2 code for lecture demonstration & example. 
-
-#### Discussion of m2 code snippet 
-
-Go to [M2 in the cloud](https://www.unimelb-macaulay2.cloud.edu.au/#home), Start Macaulay2, and type the following two commands: 
-```
-loadPackage "GraphicalModels"
-R=gaussianRing 4;
-``` 
-Next, verify the example we did in class by defining the 2 statements (each is a list of lists): 
-```
-twoStatements = {{{1},{3},{2}}, {{1},{3},{}}} 
-I = conditionalIndependenceIdeal (R,twoStatements) 
-```
-
-As we worked through slide #6 in Lecture#5, we wrote the following decomposition of the model into a union of two linear spaces: 
-```
-primaryDecomposition I
-```
-Remember, computers operate on ideals of polynomials to describe the decompositinon of the corresponding variety into a union of irreducibles. 
-
-
-Now, here is a slightly different example from page 18 of [this tutorial](https://faculty.math.illinois.edu/Macaulay2/Events/Workshop2017Atlanta-files/Day2/Thomas/GaussianCI.pdf):
-```
-twoStatements = {{{1},{2},{3}}, {{1},{3},{}}} 
-I = conditionalIndependenceIdeal (R,twoStatements) 
-primaryDecomposition I
-```
-What do you see? 
-
-	* Does the second compoment in the output ensure that the covariance matrix is positive definite? 
-	* What is the CI statement corresponding to the first component? 
+	Here is a [discussion of the M2 code snippet](lecture5-additionalhandout-primaryDecompositionM2.html). 
 
 For students, here are **questions to *verify***: 
 
@@ -70,7 +40,7 @@ For students, here are **questions to *verify***:
 * What is the density of a Gaussian random vector? 
 * How do you compute covariance (that is, entries in the matrix $\Sigma$)?
 	
-Things to *review*:  
+Things to **review**:  
 Understanding some of the material in here, which is still in section 4.1 of the textbook, requires digesting the normal distribution notation from Chapter 2. ( These are standard concepts you most likely have seen in some statistics course before.) Specific results you need to review are stated in the slides at the beginning of the lecture. 
  
 > Homework 2 will be assigned later this week. [due during week 5.] 
