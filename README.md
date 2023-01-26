@@ -77,7 +77,9 @@ Understanding some of the material in here, which is still in section 4.1 of the
 
 ## Week 4: 
 
-coming shortly. 
+Topics planned: parametric models (recap), statistics vs. parameters, parameter estimation problem. 
+
+* Material from: Statistis primer (bits of chapter 5) and Exponential families (chapter 6). 
 
 ---- 
 
