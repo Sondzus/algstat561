@@ -32,7 +32,7 @@ The plan is to cover the remainder of section 4.1 in the book. We will talk abou
 
 * [lecture 5 slides PDF](lecture5.pdf)  
  	* and a [snippet](ws3-present-M2-lec5.m2) of M2 code for lecture demonstration & example. 
-	Here is a [discussion of the M2 code snippet](lecture5-additionalhandout-primaryDecompositionM2.html). 
+	Here is a [discussion of the M2 code snippet](lecture5-additionalhandout-primaryDecompositionM2.html). Note that primary decomposition is discussed in the textbook, section 4.2. 
 
 For students, here are **questions to *verify***: 
 
