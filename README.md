@@ -56,6 +56,7 @@ Topics planned: parametric models (recap), statistics vs. parameters, parameter 
 ## Useful Info 
     
 Sample files: how to create your first .Rmd file!   All of your HW can be submitted using markdown and html/pdf. Here are some templates I created for another course, just so you know what to expect:
+
     * [514-hw-template.Rmd](https://github.com/Sondzus/StatsAnalytics/blob/master/514-hw-template.Rmd)
     * [514-hw-template.html](https://htmlpreview.github.io/?https://github.com/Sondzus/StatsAnalytics/blob/master/514-hw-template.html)
     * [514-hw-template.pdf](https://github.com/Sondzus/StatsAnalytics/blob/master/514-hw-template.pdf)
