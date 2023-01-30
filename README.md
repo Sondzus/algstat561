@@ -43,13 +43,13 @@ For students, here are **questions to *verify***:
 Things to **review**:  
 Understanding some of the material in here, which is still in section 4.1 of the textbook, requires digesting the normal distribution notation from Chapter 2. ( These are standard concepts you most likely have seen in some statistics course before.) Specific results you need to review are stated in the slides at the beginning of the lecture. 
  
-> Homework 2 will be assigned later this week. [due during week 5.] 
+> Homework 2assigned. [due 2/10/2023](hw2.pdf)
 
 ## Week 4: 
 
 Topics planned: parametric models (recap), statistics vs. parameters, parameter estimation problem. 
 
-* Material from: Statistis primer (bits of chapter 5) and Exponential families (chapter 6). 
+* Material from: Statistics primer (bits of chapter 5) and Exponential families (chapter 6). 
 
 ---- 
 
