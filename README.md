@@ -45,15 +45,18 @@ Understanding some of the material in here, which is still in section 4.1 of the
  
 > Homework 2assigned. [due 2/10/2023](hw2.pdf)  **HW file will be updated no later than 1feb2023!**
 
-## Week 4: 
+## Week 4: Maximum likelihood estimation and exponential families
 
-### Day 1:  pparametric models (recap), statistics vs. parameters, parameter estimation problem. 
+### Day 1:  Parametric models (recap), statistics vs. parameters, parameter estimation problem 
 
 * [lecture 6 slides PDF](lecture6.pdf)  
-	* Material from: Statistics primer (bits of chapter 5) and Exponential families (chapter 6). 
-	* [part 2](lecture6-part2-fromKaie.pdf) **temporary notes** 
+	* Material from: Statistics primer (bits of chapter 5) 
+	* (Note: we didn't get to exponential families on Monday.)
+
+### Day 2:  Exponential families
+	* Material from: exponential families (bits of chapter 6). 
+	* before I finish preparing the lecture for Wednesday, please feel free to take a look at   [these](lecture6-part2-fromKaie.pdf) **temporary notes**.  
 	
-### Day 2: tbd. 
 
 ---- 
 
