@@ -1,4 +1,4 @@
-## Week 1 - invitation to algebraic statistics 
+## [Week 1 - invitation to algebraic statistics](#markdown-header-desc)
 
 * [lecture 1 slides PDF](lecture1.pdf)
     * Additional notes on reasoning with data are written live. 
@@ -43,7 +43,7 @@ For students, here are **questions to *verify***:
 Things to **review**:  
 Understanding some of the material in here, which is still in section 4.1 of the textbook, requires digesting the normal distribution notation from Chapter 2. ( These are standard concepts you most likely have seen in some statistics course before.) Specific results you need to review are stated in the slides at the beginning of the lecture. 
  
-> Homework 2assigned. [due 2/10/2023](hw2.pdf)  **HW file will be updated no later than 1feb2023!**
+> Homework 2 assigned. [due 2/10/2023](hw2.pdf)  **HW file will be updated no later than 1feb2023!**
 
 ## Week 4: Maximum likelihood estimation and exponential families
 
@@ -53,10 +53,50 @@ Understanding some of the material in here, which is still in section 4.1 of the
 	* Material from: Statistics primer (bits of chapter 5) 
 	* (Note: we didn't get to exponential families on Monday.)
 
-### Day 2:  Exponential families
+### Day 2:  Exponential families and likelihood inference
 
-* Material from: exponential families (bits of chapter 6). 
+* Material from: exponential families (bits of chapter 6), and likelihood inference (chapter 7). 
+
 * before I finish preparing the lecture for Wednesday, please feel free to take a look at   [these](lecture6-part2-fromKaie.pdf) **temporary notes**.  
+
+
+## Week 5: Sufficiency principle
+
+* Topics: the cone of sufficient statistics, 
+
+> Homework 3 assigned. 
+
+## Week 6:
+
+## Week 7: 
+
+> Homework 4 assigned. 
+
+## Week 8:
+
+> *[Tentative]* Project topics selection period. 
+
+## Week 9: 
+
+> Homework 5 assigned. 
+
+## Week 10: 
+
+## Week 11: 
+
+> Homework 6 assigned. 
+
+## Week 12: 
+
+> Project check-ins. 
+
+## Week 13: 
+
+## Week 14:
+
+* **Note** This week, lectures will be modified - *online*, as I am traveling to [BIRS](https://www.birs.ca/events/2023/5-day-workshops/23w5070). 
+
+## Week 15:  Project presentations and discussion 
 	
 
 ---- 
