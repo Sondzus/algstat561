@@ -46,6 +46,8 @@ Understanding some of the material in here, which is still in section 4.1 of the
  
 > Homework 2 assigned. [due 2/10/2023](hw2.pdf). Here is the [source .Rmd file](hw2.Rmd). 	
 
+*Important note regarding **code submissions**:* If you are solving the coding problem, you should submit: clean code that I can run, ensuring that proper documentation is provided (e.g. what does each function/method do?), and a printout of at least one example illustrating how the code works. 
+
 ## Week 4: Maximum likelihood estimation and exponential families
 
 ### Day 1:  Parametric models (recap), statistics vs. parameters, parameter estimation problem 
