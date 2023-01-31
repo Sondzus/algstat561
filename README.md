@@ -1,3 +1,15 @@
+---
+title: "Algebraic & Geometric Methods in Statistics"
+subtitle: |
+  | Outline and some illustrative examples in nonlinear statistics
+author: |
+  | Sonja Petrović
+  | Created for Math/Stat 561
+date: "Jan 9, 2023." 
+urlcolor: darkblue
+output: rmdformats::readthedown
+---
+
 ## [Week 1 - invitation to algebraic statistics](#markdown-header-desc)
 
 * [lecture 1 slides PDF](lecture1.pdf)
