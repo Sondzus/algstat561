@@ -55,8 +55,8 @@ Understanding some of the material in here, which is still in section 4.1 of the
 
 ### Day 2:  Exponential families
 
-	* Material from: exponential families (bits of chapter 6). 
-	* before I finish preparing the lecture for Wednesday, please feel free to take a look at   [these](lecture6-part2-fromKaie.pdf) **temporary notes**.  
+* Material from: exponential families (bits of chapter 6). 
+* before I finish preparing the lecture for Wednesday, please feel free to take a look at   [these](lecture6-part2-fromKaie.pdf) **temporary notes**.  
 	
 
 ---- 
