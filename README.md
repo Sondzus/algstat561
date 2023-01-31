@@ -1,4 +1,5 @@
-## [Week 1 - invitation to algebraic statistics](#markdown-header-desc)
+
+## Week 1 - invitation to algebraic statistics 
 
 * [lecture 1 slides PDF](lecture1.pdf)
     * Additional notes on reasoning with data are written live. 
@@ -43,7 +44,7 @@ For students, here are **questions to *verify***:
 Things to **review**:  
 Understanding some of the material in here, which is still in section 4.1 of the textbook, requires digesting the normal distribution notation from Chapter 2. ( These are standard concepts you most likely have seen in some statistics course before.) Specific results you need to review are stated in the slides at the beginning of the lecture. 
  
-> Homework 2 assigned. [due 2/10/2023](hw2.pdf)  **HW file will be updated no later than 1feb2023!**
+> Homework 2 assigned. [due 2/10/2023](hw2.pdf). Here is the [source .Rmd file](hw2.Rmd). 	
 
 ## Week 4: Maximum likelihood estimation and exponential families
 

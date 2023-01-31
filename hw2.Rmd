@@ -1,0 +1,99 @@
+---
+title: "Math 561 Assignment 2^[Algebraic and Geometric Methods in Statistics, Spring 2023]"
+author: "SP, using Miles' template!"
+date: "Due date: 10 Feb 2023."
+output: 
+      pdf_document: 
+            includes:
+              in_header: "preambleMiles.tex"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Submit solutions to at least 4 problems out of problems 1-5, and at least one of 6&7. 
+
+
+<!--------------->
+<!-- Problem 1 -->
+<!--------------->
+
+1. Let
+	\[P^{(X_3=0)}:=\begin{pmatrix}
+		0.05 & 0.15 \\ 0.075 & 0.225
+	\end{pmatrix},\; P^{(X_3=1)}:=\begin{pmatrix}
+		0.125 & 0.125 \\ 0.125 & 0.125
+	\end{pmatrix}\]
+Consider three binary random variables, $X_1,X_2, X_3$ each taking values in the set $\{0,1\}$ with joint probabilities $P(X_1 =i, X_2 =j, X_3 = 0)= P^{(X_3=0)}_{i,j}$ and $P(X_1=i, X_2 = j, X_3 = 1) = P^{(X_3=1)}_{i,j}$.
+
+   (a) Find the marginal distribution $P_{X_1}$ of $X_1$ (Recall that in the discrete case, integration is substituted by summation.)
+   (b) Find the conditional distribution $P_{X_2,X_3\mid X_1}$ of $(X_2, X_3)$ given $X_1$.
+   (c) Is $X_2$ conditionally independent of $X_3$ given $X_1$?
+   (d) Is $X_1$ conditionally independent of $X_2$ given $X_3$?
+
+
+<!--\pagebreak --> 
+
+<!--------------->
+<!-- Problem 2 -->
+<!--------------->
+
+2. Consider four binary random variables $X_1,X_2,X_3,X_4$ and the collection $\Cc = \{X_1 \indep (X_3, X_4)\mid X_2\}$. Write down the corresponding conditional independence ideal $I_{\Cc}$. Hint: The polynomials in the CI ideal are $2\times 2$ minors of some matrices. Can you figure out which matrices?
+
+
+<!--\pagebreak --> 
+
+<!--------------->
+<!-- Problem 3 -->
+<!--------------->
+
+3. **Exercise 4.7 from the book.** For four binary random variables, consider the conditional indpendence model $C=\{1\indep 3\mid (2,4),\; 2\indep 4 \mid (2,3)\}$. Compute the primary decomposition of $I_{\Cc}$ and describe the components.
+
+
+   **Advanced version of this problem** (i.e., you may choose this instead). **Exercise 4.10.** Consider the marginal indepndence model for four binary random variables $C = \{1\indep 2,\; 2\indep 3,\; 3\indep 4,\; 1\indep 4\}$.
+
+   (a) Compute the primary decomposition of $I_{\Cc}$.
+   (b) Show that there is exactly one component of $V(I_{\Cc})$ that intersects the probability simplex.
+   (c) Give a parametrization of that componenet. 
+
+<!--\pagebreak --> 
+
+<!--------------->
+<!-- Problem 4 -->
+<!--------------->
+4. **Exercise 4.12.** Consider the Gaussian conditional independence model $C = \{1\indep2|3, 1\indep3|4, 1\indep4|2\}$.
+Compute the primary decomposition of $J_{\Cc}$ and use this to determine what, if any, further conditional independence statements are implied.
+
+<!--\pagebreak --> 
+
+<!--------------->
+<!-- Problem 5 -->
+<!--------------->
+
+5. **Coding Problem!** Write an `R` (preferred) or `Python` (acceptable) script to generate the discrete and/or Gaussian conditional independence ideal from (1) one CI statement and (2) a list of CI statemens. The output should be as the output of `Macaulay2` shown in slides in Lectures 4 and 5.
+
+<!--\pagebreak --> 
+
+<!--------------->
+<!-- Problem 6 -->
+<!--------------->
+
+6. **Exercise 6.2.**  Consider the vector $h = (1, 1, 1, 2, 2, 2)$ and the matrix $A=\begin{bmatrix}2&0&0&1&1&0\\0&2&0&1&0&1\\0&0&2&0&1&1\end{bmatrix}$. 
+
+  (1) Compute generators for the toric ideals $I_A$ and $I_{A,h}$.
+  (2) What familiar statistical model is the discrete exponential family $\mathcal M_{A,h}$ ?
+
+
+<!--\pagebreak --> 
+
+<!--------------->
+<!-- Problem 7 -->
+<!--------------->
+
+7. **Exercise 6.3.** Consider the monomial parametrization
+$$p_{ijk}=\alpha_{ij}\beta_{ik}\gamma_{jk}$$ 
+for $i\in[r_1]$, $j\in[r_2]$, $k\in[r_3]$. 
+Describe the matrix $A$ associated to this monomial parametrization. How does $A$ act as a linear transformation on 3-way arrays (3-dimensional tables)? Compute the vanishing ideal $I_A$ for $r_1 = r_2 = r_3 = 3$.
+
