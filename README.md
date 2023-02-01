@@ -56,15 +56,21 @@ Understanding some of the material in here, which is still in section 4.1 of the
 	* Material from: Statistics primer (bits of chapter 5) 
 	* (Note: we didn't get to exponential families on Monday.)
 
-### Day 2:  Exponential families and likelihood inference
+### Day 2:  Exponential families
 
 * [lecture 7 slides PDF](lecture7.pdf)  
 	* Material from: exponential families (bits of chapter 6), and likelihood inference (chapter 7). 
+	* We reviewed an example on maximum likelihood estimation, but did not finish discussing all of the likelihood inference topics today. 
 
+## Week 5: Exponential families, likelihood inference and the sufficiency principle.
 
-## Week 5: Sufficiency principle
+### Day 1: How to find the vanishing ideal of a discrete exponential family. Log-linear models and binomial ideals. 
 
-* Topics: the cone of sufficient statistics, 
+* [lecture 8 slides PDF](lecture8.pdf) **DRAFT, incomplete** 
+
+### Day 2: tbd. 
+
+* New topic: the cone of sufficient statistics, 
 
 > Homework 3 assigned. 
 
