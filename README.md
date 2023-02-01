@@ -59,10 +59,12 @@ Understanding some of the material in here, which is still in section 4.1 of the
 ### Day 2:  Exponential families
 
 * [lecture 7 slides PDF](lecture7.pdf)  
-	* Material from: exponential families (bits of chapter 6), and likelihood inference (chapter 7). 
+	* Material from: exponential families (bits of chapter 6), and likelihood inference (chapter 7). In particular, section 7.1. talks about *score equations* and the following sections a bit on how to solve them using geometric viewpoint. We will refer to this material as needed.  
 	* We reviewed an example on maximum likelihood estimation, but did not finish discussing all of the likelihood inference topics today. 
 
-## Week 5: Exponential families, likelihood inference and the sufficiency principle.
+## Week 5: Exponential families, and wrap-up on likelihood inference. The sufficiency principle.
+
+* Material from: exponential families (bits of chapter 6), and likelihood inference (chapter 7). 
 
 ### Day 1: How to find the vanishing ideal of a discrete exponential family. Log-linear models and binomial ideals. 
 
@@ -70,7 +72,9 @@ Understanding some of the material in here, which is still in section 4.1 of the
 
 ### Day 2: tbd. 
 
-* New topic: the cone of sufficient statistics, 
+* Next topics, order tentative: 
+	(a)  the cone of sufficient statistics, chapter 8; 
+	(b) exact testing, chapter 9. 
 
 > Homework 3 assigned. 
 
