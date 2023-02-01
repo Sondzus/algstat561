@@ -58,9 +58,8 @@ Understanding some of the material in here, which is still in section 4.1 of the
 
 ### Day 2:  Exponential families and likelihood inference
 
-* Material from: exponential families (bits of chapter 6), and likelihood inference (chapter 7). 
-
-* before I finish preparing the lecture for Wednesday, please feel free to take a look at   [these](lecture6-part2-fromKaie.pdf) **temporary notes**.  
+* [lecture 7 slides PDF](lecture7.pdf)  
+	* Material from: exponential families (bits of chapter 6), and likelihood inference (chapter 7). 
 
 
 ## Week 5: Sufficiency principle
