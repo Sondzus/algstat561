@@ -49,7 +49,7 @@ Consider three binary random variables, $X_1,X_2, X_3$ each taking values in the
 <!-- Problem 3 -->
 <!--------------->
 
-3. **Exercise 4.7 from the book.** For four binary random variables, consider the conditional indpendence model $C=\{1\indep 3\mid (2,4),\; 2\indep 4 \mid (2,3)\}$. Compute the primary decomposition of $I_{\Cc}$ and describe the components.
+3. **Exercise 4.7 from the book.** For four binary random variables, consider the conditional indpendence model $C=\{1\indep 3\mid (2,4),\; 2\indep 4 \mid (1,3)\}$. Compute the primary decomposition of $I_{\Cc}$ and describe the components.
 
 
    **Advanced version of this problem** (i.e., you may choose this instead). **Exercise 4.10.** Consider the marginal indepndence model for four binary random variables $C = \{1\indep 2,\; 2\indep 3,\; 3\indep 4,\; 1\indep 4\}$.
