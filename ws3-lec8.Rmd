@@ -1,0 +1,49 @@
+---
+title: "Math 561 Worksheet 3"
+author: "Group members: "
+date: "6 February 2023."
+output: 
+      pdf_document: 
+            includes:
+              in_header: "preambleMiles.tex"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# 1. The design matrix and log-linear models 
+
+Consider the model $p_{ij}=\alpha_i\beta_j$ for $i\in[2]$ and $j\in[2]$. This is the model of binary independent random variables. 
+The design matrix is $A=\begin{bmatrix}1&1&0&0\\0&0&1&1\\1&0&1&0\\0&1&0&1\end{bmatrix}.$ 
+What is the analogous matrix $B$ for the model of independence of two  random  variables with $X_1\in[2]$ and $X_2\in[3]$? 
+
+# 2. Rowspan and points in the model 
+
+* Give an example of an element in the vector space $rowspan(B)$ for the matrix $B$ in the previous problem. 
+
+* Pick a value of the parameter vector $[\alpha_1,\alpha_2,\beta_1,\beta_2,\beta_3]$ and write the corresponding point $p=[p_{11},p_{12},p_{13},p_{21},p_{22},p_{23}]$ in the model $\mathcal M_{X_1\indep X_2}$. 
+
+* Verify whether $\log p$, for this particular point $p$, is the the row span of the design matrix $B$ for the model. 
+
+# 3. MLE for a log-linear model
+
+Continue exploring the model $\mathcal M_{X_1\indep X_2}$ with $X_1$ binary and $X_2$ ternary.
+
+Suppose the observed data count table is: 
+$$u=\begin{bmatrix}1&10&100 \\ 100&10&1 \end{bmatrix}.$$ 
+
+* What is the MLE for this data table $u$? 
+* Does the MLE belong in the model $\mathcal M_{X_1\indep X_2}$? How certain are you of your answer? 
+
+# 4. Toric ideal of log-linear models
+
+Continue exploring the model $\mathcal M_{X_1\indep X_2}$ with $X_1$ binary and $X_2$ ternary, with the design matrix $B$ you derived in problem #1. 
+
+* Give an example of a binomial in the ideal $I_B$ of this model. 
+* What is the value of the sufficient statistic vector for the data point $u$ from problem #3? 
+* Can you find another synthetic data table, $v$, whose sufficient statistic *[Hint: $Bv$]* has the same value? 
+* What is the explicit form of the monomials $p^u$ and $p^v$ in this example? 
+* Is it true that $p^u-p^v \in I_B$? 
+  * Can you verify this on a computer? 
