@@ -68,7 +68,8 @@ Understanding some of the material in here, which is still in section 4.1 of the
 
 ### Day 1: How to find the vanishing ideal of a discrete exponential family. Log-linear models and binomial ideals. 
 
-* [lecture 8 slides PDF](lecture8.pdf) **DRAFT, incomplete** 
+* [lecture 8 slides PDF](lecture8-LogAffineModelsLogLinearIdeal.pdf)  
+	* In-class [worksheet]. 
 
 ### Day 2: tbd. 
 
