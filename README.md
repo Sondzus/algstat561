@@ -73,7 +73,7 @@ Understanding some of the material in here, which is still in section 4.1 of the
 
 ### Day 2: Likelihood inference & outlook: why do we even estimate parameters? 
 
-* [lecture 9 slides PDF](lecture9-likelihood inference.pdf)
+* [lecture 9 slides PDF](lecture9-likelihood-inference.pdf)
 	* Separate slides on [Lagrange multipliers for log-linear models](lecture9-interlude-LangrangeMultipliers.pdf)
 * Last part of slides in lecture 9 are preview of the next topic, which will be core to several projects: the question of model/data fit. 
 	
