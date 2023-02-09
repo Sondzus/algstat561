@@ -1,0 +1,397 @@
+---
+title: "week 5 day 2" 
+subtitle: |
+  | "Likelihood Geometry & Intro to exact testing for log-linear models" 
+  | "Algebraic & Geometric Methods in Statistics"
+author: |
+  | Sonja Petrović
+  | Created for Math/Stat 561
+date: "Feb 8, 2023." 
+urlcolor: darkblue
+output: 
+  beamer_presentation:
+    theme: "CambridgeUS"
+    colortheme: "beaver"
+    includes:
+      in_header: header_beamer.tex
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = TRUE,comment = '', fig.align = 'center', out.width="70%" ##, fig.width = 3
+)
+knitr::include_graphics
+```
+
+# Related readings
+Chapter 7 from our textbook. 
+
+## Goals
+
+* Understand examples
+* Understand counting the number of solutions
+* See how it all plays out in the discrete exponentail family case. 
+
+# Likelihood geometry
+
+* Recap: Likelihood inference 
+
+![Example of score equtions](lecture_figures/lecture7fromKaie-ScoreEquationsExIndependence2x2.png)
+
+--- 
+
+## Discrete setup 
+
+* Parametric model given by a *rational map* $p:\Theta\to\Delta_{r-1}$
+* *iid* samples $X^{(1)}, X^{(2)},\dots,X^{(n)}$ such that $X^{(i)}\sim p$ for some **unknown** $p$
+* The vector of **counts** $u\in\mathbb N^r$, with $u_j=|\{i:X^{(i)}=j\}|$
+* *Log-likelihood function* $\ell(\theta|u)=\sum_{j=1}^r u_j\log p_j$
+* **Score equations** $\sum_{j=1}^r \frac{u_j}{p_j}\frac{dp_j}{d\theta_i}$. *One equation for each $\theta_i$.*
+
+\pause 
+
+:::{.block}
+## Theorem & Definition 
+Let $\mathcal M\subseteq \Delta_{r-1}$ be a statistical model. For *generic*^['sufficiently random', outside a variety] data, the number of solutions to the score equations is independent of $u$. 
+
+The number of solutions to the score equations for generic $u$ is called the **maximum likelihood degree** (ML degree) of the parametric discrete statistical model $\mathcal M$. 
+:::
+
+Computational algebra is really good at coutning the number of solutions to a system of polynomial/rational equations!! 
+
+#  Implicit models 
+
+<!-- * kaie lect6 pages 26,27, 28(maybe); example p 33. [except i don't understand the example myself!] --> 
+
+:::{.block}
+## Problem
+Given vector of counts $u$, we would like to maximize the log-likelihood function $\ell(\theta|u)=\sum_{j=1}^r u_j\log p_j$ over  the *intersection* of the interior of the probability simplex $\Delta_{r-1}$ and the variety V(polynomials defining the model). 
+:::
+
+:::{.block}
+## Example
+$M_{X\ci Y} = \{ \begin{bmatrix}p_{11}&p_{12}\\p_{21}&p_{22}\end{bmatrix}\in\Delta_3: p_{11}p_{22}-p_{12}p_{21}=0 \}$ and $u=\begin{bmatrix}19&141\\17&149\end{bmatrix}$.
+
+* Maximize $\ell(p|u)=19\log p_{11}+141\log p_{12} + 17\log p_{21} + 149\log p_{22}$ over $M_{X\ci Y}$.
+* The polynomial **constraints** are $p_{11}+p_{12}+p_{21}+p_{22}=1$ and $p_{11}p_{22}-p_{12}p_{21}=0$. 
+:::
+
+\attn{$\rightarrow$} Go to lecture9-interlude-LangrangeMultipliers.pdf 
+
+
+# Exponential families have concave likelihood functions
+
+<!--
+Kaie lecture 6
+* page 39: expo => strictly concave
+* p40 iid samples
+* p41 discrete expo: MLE via vector of counts. solutio to the score equations in matrix-vector form! 
+--> 
+:::{.block}
+## Proposition
+Let $\mathcal M$ be an *exponential family* with minimal sufficient statistics $T(x)$ and natural parameter $\eta$. ($f_\eta(x)=h(x)e^{\eta^t T(x)-A(\eta)}$.) Then the likelihood function is \attn{strictly concave}.
+
+* The MLE, if it exists, is the solution to \attn{$T(x)=\mathbb E_\eta[T(X)].$}
+  * $x$ denotes the data vector. 
+:::
+
+* *iid* samples $\implies$ sufficient statistic of the sample is $T_n(X^{(1)},\dots,X^{(n)}) = \sum_{i=1}^nT(X^{(i)})$.
+
+![Source: Carlos Amendola](lecture_figures/lecture9- ML in exponential families from Carlos.png)
+
+# Example: ML degree of (rescaled) binomial is 3
+
+<!--Carlos' slides
+Now go here https://math.berkeley.edu/~bernd/carlosA.pdf and use: 
+
+* slide 4: ml degree explicit score equations for the twisted cubic model [re-scaled binomial, remember?]
+--> 
+
+![Source: Carlos Amendola](lecture_figures/lecture9- ML degree example - twisted cubic from Carlos.png)
+
+# ML for discrete expo fam.
+
+![Source: Carlos Amendola](lecture_figures/lecture9- ML in exponential families from Carlos.png)
+
+---
+
+
+<!--
+* slide 7: why is MLE in expo families what it is (the matrix-vector form is a corollary of the prop on this slide; look!)
+  * slide 8 has this spelled out; it's the Birch's theorem
+--> 
+
+:::{.block}
+## Corollary [Birch's theorem] 
+Let $A\subseteq \mathbb Z^{k\times r}$ such that $1\in rowspan(A)$. Let $u$ be a vector of counts from *iid* samples. Then the MLE of the log-linear model is \attn{the unique solution}, if it exists, to
+$$Au=nAp\mbox { and } p\in\mathcal M_A.$$ 
+:::
+
+* Inspires algorithms for computing MLE:
+  * \attn{Iterative proportional fitting}. \citing{Stephen Fienberg, [AMS 1970](https://www.jstor.org/stable/2239244).}
+
+* `R` can do this - it's super fast
+  * some resources at end of these slides
+  * IPF is usually embedded inside other functions 
+
+```{r}
+fm <- loglin(HairEyeColor, list(c(1, 2), c(1, 3), c(2, 3)))
+## fm
+```
+
+
+# The following problem will appear on HW 3
+
+* exercise 7.2. in the book 
+ 
+<!-- see last slide in carlos' presentation :) --> 
+
+Let $\mathcal M$ be the model of binomial random variables $Bin(2, \theta)$:
+$$\mathcal M = \{(1-\theta)^2,2\theta(1-\theta),\theta^2)\in\Delta_2 : \theta\in(0,1)\}.$$
+
+* What is the ML degree of $\mathcal M$?
+* Compute the MLE $\hat\theta$ for the two data points $u = (8, 6, 5)$ and $v = (4, 20, 8)$. Interpret your results
+
+# Interlude: log-linear models Campuswire post #37. 
+
+\only<1>{Did anyone try and succeed to write out what it means that "\citing{log(p) is in the rowspan(A)}" for the example of the independence model?}
+
+\pause 
+
+![From Danai Deligeorgaki, KTH](lecture_figures/lecture9- solution from lecture 8 - log affine independence model.png){ width = 60% }
+
+---
+
+* Answer by Miles: 
+
+In general (from slide 13 or lec. 7):  
+
+$p_\theta =\frac{1}{Z(\theta)}h\prod_j\theta^{a_j}$ 
+where $a_j$ is the $j^\text{th}$ row of $A\in Z^{k\times r}$. 
+
+If $p_{\theta}\in \text{int}(\triangle_{\mathcal{R}-1})$ then $(1,\dots,1)= \bf{1}\in \text{rowspan}(A)$ i.e. $\bf{1} = cA$ for some vector $c\in \Z^r$ 
+
+Assume $h= \bf{1}$.  Then
+ $\log p_\theta = \log(h) - \log(Z(\theta))\bf{1} +\sum_j a_j\log\theta$
+$\quad\qquad = \bf{0} -\log(Z(\theta))cA +\log\theta A$
+$\quad\qquad = \left(-\log(Z(\theta)) c + \log \theta\right)A$
+
+Here $-\log(Z(\theta)) c + \log \theta$ is just a vector, in $\mathbb R^r$ so this means $\log p_\theta \in \text{rowspan}(A)$
+
+
+# Exact testing! 
+
+this is our next topic!! 
+
+* Last slide from likelihood geometry said:
+"IPF is usually embedded inside other functions"
+
+* ... which begs the question: What other questions might we have?? 
+
+## 
+The following few slides are a **preview** of our next topic.
+
+<!--from my tirana slides!!--> 
+
+
+
+# Is the given set of shareowning relations expected or not? 
+
+![A graphical representation of the Japanese Corporate Network from the NYT article.](lecture_figures/JapNtwkFig.png)
+
+
+
+#   Are degrees a good summary of a network? 
+
+![Coauthorship](lecture_figures/CoauthorshipNetwork.png){ width=45% }
+![Citation](lecture_figures/CitationNetwork.png){ width=45% }
+<!-- 
+![Yes!](AllFigures-AlgStatNetworks/CoauthorshipP1GofHistogram.png)
+![No!](AllFigures-AlgStatNetworks/CitationP1GofHistogram.png}
+
+{\tiny \citing{Karwa \& Petrović, AOAS 2016}:  \footnotesize Coauthorship and citation networks of statisticians - comment}
+
+
+--> 
+
+
+
+
+# At the heart of statistical reasoning 
+
+* Given: data, find out if it is usual/expected? surprising/outlier? quantify??
+
+<!-- $\rightarrow$ \attn{You} think like this on a daily basis! $\leftarrow$  \qquad  \qquad  \qquad \qquad \citing{Aha!}--> 
+
+\pause 
+
+* Do all genders get fair salary in Tirana? 
+
+
+```{=latex}
+ \smartdiagramset{border color=none, text width = 3cm, module x sep = 4.2cm, 
+set color list={red!10!gray,red!20!gray,red!30!gray,red!40!gray},
+%uniform color list=brown!40 for 3 items,
+arrow style = <-, 
+   back arrow disabled=true,
+}
+\smartdiagram
+[flow diagram:horizontal]{Obtain some\\salary data,Break  data down\\by gender,Hope salary\\independent of gender
+}
+```
+
+\pause 
+
+* We expect a certain 'shape' of the data. A certain... distribution! 
+
+
+::: {.columns}
+
+::: {.column} 
+\attn{YOUR} everyday intuition $\mapsto$ formal framework.  
+::: 
+
+::: {.column}
+![Small table format](lecture_figures/Explain Everything Table2x3 blank.png)
+
+::: 
+
+::: 
+
+
+
+
+
+
+
+
+
+# A simple search: Chicago data science salary data 
+
+![](lecture_figures/lecture9-ChicagoDataScience salaries from glassdoor.png)
+
+<!--
+::: {.columns}
+
+::: {.column} 
+![Top employer in Tirana](lecture_figures/tiranaJobs.pdf)
+::: 
+
+::: {.column}
+![Sample salaries for Consultant at Deloitte](lecture_figures/tiranaSalaries.jpeg)
+::: 
+
+::: 
+--> 
+
+# Formal reasoning with data: independence example  
+
+* **Modeling**: 
+Construct a statistical model for \attn{independence}. 
+
+
+* **Question**:
+Does the model \attn{fit} the observed set of gender vs. salary ranges? 
+
+\hfill (Can it adequately explain how the salary data was generated?) 
+
+* **Process**: 
+
+```{=latex}
+ \smartdiagramset{border color=brown!40!gray, text width = 3cm, module x sep = 4cm, 
+set color list={red!10!gray,red!20!gray,red!30!gray,red!40!gray},
+arrow style = <-, 
+%uniform color list=brown!40 for 2 items,
+back arrow disabled=true,
+additions={
+   additional item text width = 4cm, 
+   additional item offset=0.4cm,
+   additional item border color=brown!40!gray,
+   additional connections disabled=false,
+   additional arrow color=brown!40!gray,
+   additional arrow tip=stealth,
+   additional arrow line width=1pt,
+   additional arrow style=<-,
+   }
+}
+\smartdiagramadd[flow diagram:horizontal]{Assume salary is independent of gender,Observe a classification of genders by salary range
+}
+{%
+right of module2/Not unusual? Model of independence \attn{fits} the data, 
+below right of module2/Unusual? Model of independnece \attn{does not} fit the data
+}
+%\vspace{1.5in}
+```
+
+
+
+
+# Models with a design matrix 
+
+* $X_1,\dots,X_k$ discrete  random variables, $X_i\in\{1,\dots,d_i\}$
+* $u$ =   a \attn{k-way contingency table}  $u\in\mathbb Z_{\geq0}^{d_1\times\cdots\times d_k}$  \tiny  \gray{[Draw a table!]}  Flatten $u$ to vector.  
+
+<!--![](3x3x2tableExample.pdf){ width = 10% }--> 
+<!-- $d_1\times\dots\times d_k$ table - --> 
+<!-- 
+## Design matrix 
+\attn{Integer matrix $A$} such that $Au$ suffices to capture the probability of $u$.
+--> 
+
+
+##  Log-linear model 
+
+Sufficient statistics = \attn{marginals} of $u$: $P_\theta(U=u) = \exp\{\left< \attn{A}u,\theta\right>-\psi(\theta\}$.
+<!--\hfill \citing{...Question: What kind of a  statistical  model is this?}--> 
+
+
+## Example $X_1\perp\!\!\!\perp X_2$
+```{=latex}
+
+%Let us consider one of Fienberg's early favorite examples: the model of independence of two categorical random variables $X_1$ and $X_2$. Here, $A$ is a $(d_1+d_2)\times d_1d_2$ matrix of the following form, where the first $d_1$ rows each have $d_2$ ones and the last $d_2$ rows contain $d_1$ copies of the $d_2 \times d_2$ identity matrix:
+{\tiny
+\[
+\left[\begin{array}{cccc|cccc|c|cccc}1 & 1 & \cdots & 1 & 0 & 0 & \cdots & 0 & \cdots & 0 & 0 & \cdots & 0 \\0 & 0 & \cdots & 0 & 1 & 1 & \cdots & 1 & \cdots  & 0 & 0 & \cdots & 0 \\\vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots & \vdots \\0 & 0 & \cdots & 0 & 0 & 0 & \cdots & 0 & \cdots & 1 & 1 & \cdots & 1 \\ \\ \hline \\ 1 & 0 & \cdots & 0 & 1 & 0 & \cdots & 0 & \cdots & 1 & 0 & \cdots & 0 \\0 & 1 & \cdots & 0 & 0 & 1 & \cdots & 0 & \cdots & 0 & 1 & \cdots & 0 \\\vdots & \vdots & \ddots & \vdots & \vdots & \vdots & \ddots & \vdots & \vdots & \vdots & \vdots & \ddots & \vdots \\0 & 0 & \cdots & 1 & 0 & 0 & \cdots & 1 & \cdots & 0 & 0 &\cdots & 1\end{array}\right]_{(d_1+d_2)\times d_1d_2} 
+\cdot 
+ \left[\begin{matrix} 
+	 	u_{11}\\\vdots\\u_{d_1d_2}\\
+	  \end{matrix}\right]
+	  = 
+	 \left[\begin{matrix} 
+	 	u_{1+}&\dots &u_{+d_2}
+	   \end{matrix}\right]. 
+\]
+}
+```
+
+
+
+# Conclusions 
+
+## Main take-aways about *likelihood geometry*
+
+* Numerical algorithms for computing MLE, for example the EM algoritm implemented widely, are usually some form of hill-climbing. They have no way of telling you whether you are at a global or local optimum. 
+* Likelihood function in exponential families is strictly concave
+  * However there can be local optima on the boundary of the model
+* When you compute estimates numerically, it is a good idea to understand how many critical points there are 
+  * You can set up the system of score equations
+  * You can count the number of (complex) solutions to those equations
+    * This quantity, called the \attn{ML degree} in algebraic statisitcs, is one measure of complexity of estimation.
+* ML degree is one *if and only if* the MLE formula is a rational function of the data.
+  * Birch's theorem. 
+
+# Additional material
+
+* Here is a [vignette](https://cran.r-project.org/web/packages/surveysd/vignettes/ipf.html) about how IPF algorithm works in `R`. 
+* In `python`, I have not used this, but found this link which appears to be useful: [IPF in python](https://datascience.oneoffcoder.com/ipf.html)
+
+
+#  License  
+
+Parts of this presentation are from Kaie Kubjas' course lectures, used with permission; and Carlos Amendola's lecture in Bernd Sturmfel's short course on Algebraic Statistics in Berlin, fall 2022. 
+
+This document  is created for Math/Stat 561, Spring 2023.
+
+All materials posted on this page are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
