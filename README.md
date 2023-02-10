@@ -44,7 +44,8 @@ For students, here are **questions to *verify***:
 Things to **review**:  
 Understanding some of the material in here, which is still in section 4.1 of the textbook, requires digesting the normal distribution notation from Chapter 2. ( These are standard concepts you most likely have seen in some statistics course before.) Specific results you need to review are stated in the slides at the beginning of the lecture. 
  
-> Homework 2 assigned. [due 2/10/2023](hw2.pdf). Here is the [source .Rmd file](hw2.Rmd). 	
+> Homework 2 assigned. [due 2/10/2023](hw2.pdf). Here is the [source .Rmd file](hw2.Rmd). 	 **Deadline moved to 2/13/2023**
+
 
 *Important note regarding **code submissions**:* If you are solving the coding problem, you should submit: clean code that I can run, ensuring that proper documentation is provided (e.g. what does each function/method do?), and a printout of at least one example illustrating how the code works. 
 
@@ -81,9 +82,13 @@ Understanding some of the material in here, which is still in section 4.1 of the
 
 ## Week 6:
 
-* Next topics, order tentative: 
-	(a)  the cone of sufficient statistics, chapter 8; 
-	(b) exact testing, chapter 9. 
+### Day 1: in-class work. See Campuswire post #39 for **announcements**. 
+
+*Note:* Homework 2 is due today 2/13/2023, extended from Friday week 5. 
+
+### Day 2: Exact testing: motivation 
+
+* Here is a draft of the [Wednesday lecture](lecture10-exactTesting.pdf), which will be updated no late than Tuesday. 
 
 ## Week 7: 
 
