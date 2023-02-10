@@ -1,7 +1,7 @@
 ---
 title: "Math 561 Assignment 2^[Algebraic and Geometric Methods in Statistics, Spring 2023]"
 author: "SP, using Miles' template!"
-date: "Due date: 10 Feb 2023."
+date: "Due date: 10 Feb 2023 -- extended to 13 Feb 2023."
 output: 
       pdf_document: 
             includes:
@@ -97,3 +97,4 @@ $$p_{ijk}=\alpha_{ij}\beta_{ik}\gamma_{jk}$$
 for $i\in[r_1]$, $j\in[r_2]$, $k\in[r_3]$. 
 Describe the matrix $A$ associated to this monomial parametrization. How does $A$ act as a linear transformation on 3-way arrays (3-dimensional tables)? Compute the vanishing ideal $I_A$ for $r_1 = r_2 = r_3 = 3$.
 
+*[Hint: the easiest way to use a computer to get the ideal is use the FourTiTwo package in Macaulay2, online, as shown in the lecture.]*
