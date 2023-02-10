@@ -71,15 +71,19 @@ Understanding some of the material in here, which is still in section 4.1 of the
 * [lecture 8 slides PDF](lecture8-LogAffineModelsLogLinearIdeal.pdf)  
 	* In-class [worksheet](ws3-lec8.pdf) with its [Rmd source](ws3-lec8.Rmd). 
 
-### Day 2: tbd. 
+### Day 2: Likelihood inference & outlook: why do we even estimate parameters? 
+
+* [lecture 9 slides PDF](lecture9-likelihood-inference.pdf)
+	* Separate slides on [Lagrange multipliers for log-linear models](lecture9-interlude-LangrangeMultipliers.pdf)
+* Last part of slides in lecture 9 are preview of the next topic, which will be core to several projects: the question of model/data fit. 
+	
+> Homework 3 assigned. 
+
+## Week 6:
 
 * Next topics, order tentative: 
 	(a)  the cone of sufficient statistics, chapter 8; 
 	(b) exact testing, chapter 9. 
-
-> Homework 3 assigned. 
-
-## Week 6:
 
 ## Week 7: 
 
@@ -118,9 +122,9 @@ Understanding some of the material in here, which is still in section 4.1 of the
     
 Sample files: how to create your first .Rmd file!   All of your HW can be submitted using markdown and html/pdf. Here are some templates I created for another course, just so you know what to expect:
 
-    * [514-hw-template.Rmd](https://github.com/Sondzus/StatsAnalytics/blob/master/514-hw-template.Rmd)
-    * [514-hw-template.html](https://htmlpreview.github.io/?https://github.com/Sondzus/StatsAnalytics/blob/master/514-hw-template.html)
-    * [514-hw-template.pdf](https://github.com/Sondzus/StatsAnalytics/blob/master/514-hw-template.pdf)
+* [514-hw-template.Rmd](https://github.com/Sondzus/StatsAnalytics/blob/master/514-hw-template.Rmd)
+* [514-hw-template.html](https://htmlpreview.github.io/?https://github.com/Sondzus/StatsAnalytics/blob/master/514-hw-template.html)
+* [514-hw-template.pdf](https://github.com/Sondzus/StatsAnalytics/blob/master/514-hw-template.pdf)
 
 
 
