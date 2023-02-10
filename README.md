@@ -78,7 +78,7 @@ Understanding some of the material in here, which is still in section 4.1 of the
 	* Separate slides on [Lagrange multipliers for log-linear models](lecture9-interlude-LangrangeMultipliers.pdf)
 * Last part of slides in lecture 9 are preview of the next topic, which will be core to several projects: the question of model/data fit. 
 	
-> Homework 3 assigned. 
+> Homework 3 assigned. **Due 2/24/2023** [hw3.pdf](hw3.pdf), [hw3.Rmd](hw3.Rmd). 
 
 ## Week 6:
 
