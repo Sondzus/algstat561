@@ -80,15 +80,16 @@ Understanding some of the material in here, which is still in section 4.1 of the
 	
 > Homework 3 assigned. **Due 2/24/2023** [hw3.pdf](hw3.pdf), [hw3.Rmd](hw3.Rmd). 
 
-Please note the following special assignment:
-
-> Homework X assigned. [hwX.pdf](hwX.pdf)  Attend either of the following two talks:  1. Aida Maraj, Friday 3 March 11:30-12:30, or  2. Felix Almendra Hernandez, Friday 7 April 11:30-12:30.  Write a one-page summary (one page typed in Markdown, for example) of the talk.  Details are in the PDF.  If your write-up is satisfactory, this grade can contribute to your your "Participation & worksheets: 10%" grade (see [grading scale](https://www.sonjapetrovicstats.com/teaching/561sp23)) in the course. 
 
 ## Week 6:
 
 ### Day 1: in-class work. See Campuswire post #39 for **announcements**. 
 
-*Note:* Homework 2 is due today 2/13/2023, extended from Friday week 5. 
+*Note:* Homework 2 is due  2/13/2023, extended from Friday week 5. 
+
+Please note the following special assignment:
+
+> Homework X assigned. [hwX.pdf](hwX.pdf)  Attend either of the following two talks:  1. Aida Maraj, Friday 3 March 11:30-12:30, or  2. Felix Almendra Hernandez, Friday 7 April 11:30-12:30.  Write a one-page summary (one page typed in Markdown, for example) of the talk.  Details are in the PDF.  If your write-up is satisfactory, this grade can contribute to your your "Participation & worksheets: 10%" grade (see [grading scale](https://www.sonjapetrovicstats.com/teaching/561sp23)) in the course. 
 
 ### Day 2: Exact testing: motivation 
 
