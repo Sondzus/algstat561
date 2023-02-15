@@ -93,7 +93,9 @@ Please note the following special assignment:
 
 ### Day 2: Exact testing: motivation 
 
-* Here is a draft of the [Wednesday lecture](lecture10-exactTesting.pdf), which will be updated no late than Tuesday. 
+* [Lecture 10 slides PDF](lecture10-exactTesting.pdf). Please note that *there is hands-on work* included in this lecture, although I did not seperate it out as a worksheet! 
+
+> Project topics are to be posted this week based on the input received from students; please stay tuned. 
 
 ## Week 7: 
 
