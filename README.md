@@ -94,6 +94,7 @@ Please note the following special assignment:
 ### Day 2: Exact testing: motivation 
 
 * [Lecture 10 slides PDF](lecture10-exactTesting.pdf). Please note that *there is hands-on work* included in this lecture, although I did not seperate it out as a worksheet! 
+	* Review p-value definition in section 5.4 "hypothesis testing" from the book. Also, we will be working through the Markov chain example in Chapter 1, to find a way to do a goodness-of-fit test. 
 
 > Project topics are to be posted this week based on the input received from students; please stay tuned. 
 
