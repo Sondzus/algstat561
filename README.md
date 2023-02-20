@@ -95,9 +95,11 @@ Please note the following special assignment:
 
 * [Lecture 10 slides PDF](lecture10-exactTesting.pdf). Please note that *there is hands-on work* included in this lecture, although I did not seperate it out as a worksheet! 
 
-> Project topics are to be posted this week based on the input received from students; please stay tuned. 
+> Project topics are to be posted this week based on the input received from students; please stay tuned. **pushed to week 7 due to illness.**
 
 ## Week 7: 
+
+### Day 1: exact tests part 2 [lecture 11 slies PDF](lecture11-exactTesting-part2.pdf)
 
 > Homework 4 assigned. 
 
