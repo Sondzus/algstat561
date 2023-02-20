@@ -66,11 +66,11 @@ How would you find the maximum likelihood estimate for the implicit model? (No n
 
 ### 2. Evidence for or against independence of $X$ and $Y$. 
 
-* What is the estimated probability talbe from the data table $u$? 
+* What is the estimated probability tabke from the data table $u$? 
   * In other words, write down the MLEs for each $p_{ij}$ in $2\times 2$ table format. 
 * What is the expected table $\hat u$? 
   * In other words, write down the what the independence model predicts for the value of each cell $u_{ij}$. 
 * *Define* the $p$-value of the data table $u$ 
-* Compute the $p$-value of $u$ using the chi-sauare test of independence in `R` or `python` or by hand. [Show your code/work in your HW submission.]
+* Compute the $p$-value of $u$ using the chi-square test of independence in `R` or `python` or by hand. [Show your code/work in your HW submission.]
 * Compute the $p$-value of $u$ using Fisher's exact test of independence in `R` or `python` or by hand. [Show your code/work in your HW submission.]
 * What do you conclude? 

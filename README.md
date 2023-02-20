@@ -93,14 +93,18 @@ Please note the following special assignment:
 
 ### Day 2: Exact testing: motivation 
 
-* [Lecture 10 slides PDF](lecture10-exactTesting.pdf). Please note that *there is hands-on work* included in this lecture, although I did not seperate it out as a worksheet! 
+* [Lecture 10 slides PDF](lecture10-exactTesting.pdf). 
+	* Please note that *there is hands-on work* included in this lecture, although I did not separate it out as a worksheet! 
 	* Review p-value definition in section 5.4 "hypothesis testing" from the book. Also, we will be working through the Markov chain example in Chapter 1, to find a way to do a goodness-of-fit test. 
 
 > Project topics are to be posted this week based on the input received from students; please stay tuned. **pushed to week 7 due to illness.**
 
 ## Week 7: 
 
-### Day 1: exact tests part 2 [lecture 11 slies PDF](lecture11-exactTesting-part2.pdf)
+### Day 1: exact tests part 2 
+
+* [lecture 11 slies PDF](lecture11-exactTesting-part2.pdf)
+	* In-class [worksheet](ws4-lec11.pdf) with its [Rmd source](ws4-lec11.Rmd). 
 
 > Homework 4 assigned. 
 
