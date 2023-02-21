@@ -129,31 +129,33 @@ We worked through the main ingredients of an exact conditional goodness of fit t
 
 > Homework 4 assigned. 
 
-## Week 8:
+## Week 8: Bounds on cell entries *or* design of experiments  [tentative] 
 
 > *[Tentative]* Project topics selection period. 
 
-## Week 9: 
+## Week 9:  Graphical models  [tentative]
 
 > Homework 5 assigned. 
 
-## Week 10: 
+## Week 10: Graphical models, part 2  [tentative]
 
-## Week 11: 
+## Week 11: Hidden variables   [tentative]
 
 > Homework 6 assigned. 
 
-## Week 12: 
+## Week 12: Software packages [tentative] 
 
 > Project check-ins. 
 
-## Week 13: 
+## Week 13: Project presentations in class 
 
-## Week 14:
+## Week 14: project writing focus time 
 
-* **Note** This week, lectures will be modified - *online*, as I am traveling to [BIRS](https://www.birs.ca/events/2023/5-day-workshops/23w5070). 
+* **Note** This week, lectures will be modified, as I am traveling to [BIRS](https://www.birs.ca/events/2023/5-day-workshops/23w5070). 
 
-## Week 15:  Project presentations and discussion 
+## Week 15:  lecture topic: overflow, tbd. 
+
+Semester wrap-up! 
 	
 
 ---- 
