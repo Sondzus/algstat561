@@ -129,6 +129,8 @@ We worked through the main ingredients of an exact conditional goodness of fit t
 
 > Homework 4 assigned. 
 
+> **Announcement:** Project topics and more information can be found [on this page](projectsMain.html).
+
 ## Week 8: Bounds on cell entries *or* design of experiments  [tentative] 
 
 > *[Tentative]* Project topics selection period. 
