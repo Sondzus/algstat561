@@ -99,12 +99,33 @@ Please note the following special assignment:
 
 > Project topics are to be posted this week based on the input received from students; please stay tuned. **pushed to week 7 due to illness.**
 
-## Week 7: 
+## Week 7: GoF (goodness of fit) for log-linear models 
 
 ### Day 1: exact tests part 2 
 
-* [lecture 11 slies PDF](lecture11-exactTesting-part2.pdf)
-	* In-class [worksheet](ws4-lec11.pdf) with its [Rmd source](ws4-lec11.Rmd). 
+* [lecture 11 outline PDF](lecture11-exactTesting-part2.pdf)
+	* This  [worksheet](ws4-lec11.pdf) with its [Rmd source](ws4-lec11.Rmd) should help you walk through the questions of HW3. I explained the significance of the two parts of the assignment to understanding the GoF problem. For example, who cares about likelihood? You need the MLE 
+	
+We worked through the main ingredients of an exact conditional goodness of fit test, starting with the motivation. Here are the main points, which I summarize for your review: 
+
+* Began by reviewing critical *interpretation*: 
+	* What does the hypothesis $H_0: p\in\mathcal M_A$ **mean**? 
+		* Hint: $p$ is a probability vector or table. 
+	* What is "the best explanation the model $\mathcal M_A$ can give for the $p$, the best "guess"? 
+		* The MLE $\hat p$.
+	* We use $\hat p$ to make a decision based on statistics. It sounds like a proof by contradiction. 
+* Defined an asymptotic test of independence based on the chi-squared statistic which has a chi-square distribution (degrees of freedom computed using number of row/columns of the table). 
+* Defined an exact test that would be necessary in some cases, for example when some of the table cell counts are small. This is an example of what we call "sparse data". 
+* Identified an issue with the exact computation: evaluating the generalized hypergeometric distribution in the setting of larger samples/tables. 
+* The alternative is to find *another* exact distribution to reference:
+	* Find a new score for each table (not the actual probability of that table, but a statistic such as the $X^2$);
+	* Compute $X^2(v)$ for all $v$ whose sufficient statistics are the same as that of the observed $u$;
+	* The sampling distribution of this statistic $X^2$ is the reference distribution to define the $p$-value.
+* We did *not* yet define this $p$-value---we will begin Lecture 12 with it---but we did talk about all the ingredients needed to motivate why and how it will be constructed. 
+
+### Day 2: exact tests part 3
+
+* [lecture 12 outline PDF](lecture12-exactTesting-part3.pdf)
 
 > Homework 4 assigned. 
 
