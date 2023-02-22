@@ -123,17 +123,21 @@ We worked through the main ingredients of an exact conditional goodness of fit t
 	* The sampling distribution of this statistic $X^2$ is the reference distribution to define the $p$-value.
 * We did *not* yet define this $p$-value---we will begin Lecture 12 with it---but we did talk about all the ingredients needed to motivate why and how it will be constructed. 
 
-### Day 2: exact tests part 3
-
-* [lecture 12 outline PDF](lecture12-exactTesting-part3.pdf)
-
-> Homework 4 assigned. 
 
 > **Announcement:** Project topics and more information can be found [on this page](projectsMain.html).
 
+
+### Day 2: exact tests part 3
+
+* [lecture 12 outline PDF](lecture12-exactTesting-part3.pdf)
+	* Here are additional slides [start on slide 26](https://people.kth.se/~solus/alg-stat-4.pdf) which summarize book section 9.2., corresponding to today's lecture topic. 
+
+> Homework 4 assigned. 
+
+
 ## Week 8: Bounds on cell entries *or* design of experiments  [tentative] 
 
-> *[Tentative]* Project topics selection period. 
+>   Project topics selection period. 
 
 ## Week 9:  Graphical models  [tentative]
 
