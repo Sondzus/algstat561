@@ -129,6 +129,8 @@ We worked through the main ingredients of an exact conditional goodness of fit t
 
 ### Day 2: exact tests part 3
 
+Today's lecture will finish the last definition in section 9.1 in the book, and continue covering section 9.2 in the book. The book has an example with another data table and code in `R`, which you are invited to try out. I will focus on explaining the method and the algorithm on the board. For your convenience, here is a quick summary of what we will cover first: 
+
 * [lecture 12 outline PDF](lecture12-exactTesting-part3.pdf)
 	* Here are additional slides [start on slide 26](https://people.kth.se/~solus/alg-stat-4.pdf) which summarize book section 9.2., corresponding to today's lecture topic. 
 
