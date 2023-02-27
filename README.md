@@ -132,14 +132,38 @@ We worked through the main ingredients of an exact conditional goodness of fit t
 Today's lecture will finish the last definition in section 9.1 in the book, and continue covering section 9.2 in the book. The book has an example with another data table and code in `R`, which you are invited to try out. I will focus on explaining the method and the algorithm on the board. For your convenience, here is a quick summary of what we will cover first: 
 
 * [lecture 12 outline PDF](lecture12-exactTesting-part3.pdf)
-	* Here are additional slides [start on slide 26](https://people.kth.se/~solus/alg-stat-4.pdf) which summarize book section 9.2., corresponding to today's lecture topic. 
-
-> Homework 4 assigned. 
+	* Definition of the p-value of the exact conditional test of goodness of fit, using the *chi-square* as the GoF statistics of choice, and using the *fiber* as the reference set for computing the exact distribution of the statistic. 
+	
+> Homework 4 assigned.  **Update: THIS HAS NOT YET BEEN ASSIGNED. it will be assigned 2/28, early week 8.**
 
 
 ## Week 8: Bounds on cell entries *or* design of experiments  [tentative] 
 
->   Project topics selection period. 
+>   Project topics selection period closes. **All** teams should have a topic to work on and develop a plan of action this week. 
+
+### Day 1: exact test, part 3 continued
+
+We spent a large part of week 7, day 2 on project topics. So, today we will finish the topics from **slide 7** from  [lecture 12 outline PDF](lecture12-exactTesting-part3.pdf). 
+	
+* Related reading: section 9.2. of the textbook. 
+	* Here are additional slides [start on slide 26](https://people.kth.se/~solus/alg-stat-4.pdf) which summarize book section 9.2., corresponding to today's lecture topic. 
+* At start of lecture, reminder:  definition of fiber, definition of exact conditional p-value 
+	* what are we conditioning on and why? (suff.stat.)
+	* what is "exact" about this test? (distribution of GoF statistic.)
+	* what is the main problem we have to solve next? (enumerate the fiber so we can compute the reference distribution exactly.)
+	* Proposition (proof) conditional distribution on the fiber does not depend on A or p. 
+	* Formal statement of Fisher's exact test generalization to any log-linear model. 
+* Markov basis [definition, example] 
+* Random walk on the fiber [definition]
+* Metropolis Hastings algorithm [definition] 
+	* Theorem 9.2.3: M-H outputs an approximation to the exact conditional p-value. 
+	
+### Day 2: how to compute Markov bases? 
+
+* The fundamental theorem
+* Code
+* Examples and a sampler of results
+* Some issues with nonexistent MLE that may impact the GoF tests. 
 
 ## Week 9:  Graphical models  [tentative]
 
