@@ -157,6 +157,8 @@ We spent a large part of week 7, day 2 on project topics. So, today we will fini
 * Random walk on the fiber [definition]
 * Metropolis Hastings algorithm [definition] 
 	* Theorem 9.2.3: M-H outputs an approximation to the exact conditional p-value. 
+
+> Homework 4 assigned. **Due 3/13/2023** [hw4.pdf](hw4.pdf), [hw4.Rmd](hw4.Rmd). 
 	
 ### Day 2: how to compute Markov bases? 
 
