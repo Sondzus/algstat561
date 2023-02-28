@@ -4,7 +4,7 @@ Math 561 is a graduate-level course on algebraic and geometric methods in statis
 
 This page keeps track of course notes, material covered, homework schedule, and other relevant links. Unlike the static course homepage, this one is updated weekly. 
 
-* In the next iterations of the course, the order of topics will likely remain the same, but the speed at which we cover material will change.
+* In the next iterations of the course, the order of topics will likely remain the same, but the speed at which we cover material may change.
 * Most lectures use slides in the beginning, but I always also write on the board to supplement examples. 
 * It is impossible to follow the course only by reading these slides; students are expected to attend the lectures as well. 
 * All course communication, updates, announcements, logistics, and grading takes place on our Campuswire course page. Link and permission is provided to all enrolled students. 
