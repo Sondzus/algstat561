@@ -172,6 +172,8 @@ We spent a large part of week 7, day 2 on project topics. So, today we will fini
 	
 ### Day 2: how to compute Markov bases? 
 
+[lecture 14 PDF](lecture14-FTMB.pdf)
+
 * The fundamental theorem
 * Code
 * Examples and a sampler of results
