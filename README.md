@@ -185,16 +185,18 @@ We spent a large part of week 7, day 2 on project topics. So, today we will fini
 
 [lecture 15 PDF](lecture15-BoundsOnCellEntries.pdf)
 
-* Chapter 10.1 plus additional references
+* Chapter 10.1 plus additional references; see slides 
 
 
-## Day 2... next topic... Graphical models  [tentative schedule]
+### Day 2: Hidden variables   [tentative]
 
 > Homework 5 assigned. 
 
-## Week 10: Graphical models, part 2  [tentative]
+* next week is spring break * 
 
-## Week 11: Hidden variables   [tentative]
+## Week 10: Graphical models: directed 
+
+## Week 11: Graphical models: undirected 
 
 > Homework 6 assigned. 
 
