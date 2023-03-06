@@ -179,7 +179,16 @@ We spent a large part of week 7, day 2 on project topics. So, today we will fini
 * Examples and a sampler of results
 * Some issues with nonexistent MLE that may impact the GoF tests. 
 
-## Week 9:  Graphical models  [tentative]
+## Week 9:  
+
+### Day 1: Cell bounds on contingency tables
+
+[lecture 15 PDF](lecture15-BoundsOnCellEntries.pdf)
+
+* Chapter 10.1 plus additional references
+
+
+## Day 2... next topic... Graphical models  [tentative schedule]
 
 > Homework 5 assigned. 
 
