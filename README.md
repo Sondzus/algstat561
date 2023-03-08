@@ -188,7 +188,13 @@ We spent a large part of week 7, day 2 on project topics. So, today we will fini
 * Chapter 10.1 plus additional references; see slides 
 
 
-### Day 2: Hidden variables   [tentative]
+### Day 2: Hidden variables   
+The lecture will be on the board and follow [these notes](https://math.berkeley.edu/~bernd/elianaD.pdf), summarizing our book's Chapter 14. 
+
+* additional [course notes](https://www.cs.toronto.edu/~rgrosse/csc321/mixture_models.pdf) on mixture models form U Toronto CS.
+* additional [course notes](https://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch20.pdf) on mixture models from CMU Statistics. 
+* more on [EM algorithm for mixture models](http://personal.psu.edu/jol2/course/stat597e/notes2/mix.pdf) from Penn State Statistics. 
+* additional [examples](https://people.cs.pitt.edu/~milos/courses/cs3750-Fall2007/lectures/class14.pdf) from Pitt CS. 
 
 > Homework 5 assigned. 
 
