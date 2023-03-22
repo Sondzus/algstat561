@@ -196,13 +196,22 @@ The lecture will be on the board and follow [these notes](https://math.berkeley.
 * more on [EM algorithm for mixture models](http://personal.psu.edu/jol2/course/stat597e/notes2/mix.pdf) from Penn State Statistics. 
 * additional [examples](https://people.cs.pitt.edu/~milos/courses/cs3750-Fall2007/lectures/class14.pdf) from Pitt CS. 
 
-> Homework 5 assigned. 
 
 * next week is spring break * 
 
-## Week 10: Graphical models: directed 
+## Week 10: Graphical models
 
-## Week 11: Graphical models: undirected 
+### Day 1: intro to graphical models
+
+Lecture by Miles Bakenhus. Notes forthcoming.
+
+### Day 2: continuation.
+
+Here are additional [notes](lecture18-bits-from-Kaie-dragged.pdf).  
+
+> Homework 5 assigned. 
+
+## Week 11: Graphical models [tentative] 
 
 > Homework 6 assigned. 
 
