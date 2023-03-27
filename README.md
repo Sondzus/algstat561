@@ -207,7 +207,9 @@ Lecture by Miles Bakenhus. Notes forthcoming.
 
 ### Day 2: continuation.
 
-Here are additional [notes](lecture18-bits-from-Kaie-dragged.pdf).  
+[Lecture 18 PDF](lecture18-graphicalModels.pdf). 
+
+* Here are additional [notes](lecture18-bits-from-Kaie-dragged.pdf).  
 
 > Homework 5 assigned. 
 
