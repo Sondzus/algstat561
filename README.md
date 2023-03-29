@@ -213,6 +213,8 @@ Lecture by Miles Bakenhus. Notes forthcoming.
 
 * Here are additional [notes](lecture18-bits-from-Kaie-dragged.pdf).  
 
+[Lecture 19 PDF](lecture19-graphicalModels-part2.pdf).
+
 > Homework 5 assigned. 
 
 ## Week 12: Software packages [tentative] 
