@@ -215,7 +215,7 @@ Lecture by Miles Bakenhus. Notes forthcoming.
 
 [Lecture 19 PDF](lecture19-graphicalModels-part2.pdf).
 
-> Homework 5 assigned. 
+> Homework 5 assigned. **Due 4/14/2023** [hw5.pdf](hw5.pdf), [hw5.Rmd](hw5.Rmd). 
 
 ## Week 12: Software packages [tentative] 
 
