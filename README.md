@@ -207,21 +207,21 @@ Lecture by Miles Bakenhus. Notes forthcoming.
 
 ### Day 2: continuation.
 
+## Week 11: Graphical models [tentative] 
+
 [Lecture 18 PDF](lecture18-graphicalModels.pdf). 
 
 * Here are additional [notes](lecture18-bits-from-Kaie-dragged.pdf).  
 
 > Homework 5 assigned. 
 
-## Week 11: Graphical models [tentative] 
-
-> Homework 6 assigned. 
-
 ## Week 12: Software packages [tentative] 
 
 > Project check-ins. 
 
 ## Week 13: Project presentations in class 
+
+> Homework 6 assigned. 
 
 ## Week 14: project writing focus time 
 
