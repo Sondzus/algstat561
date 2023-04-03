@@ -217,15 +217,20 @@ Lecture by Miles Bakenhus. Notes forthcoming.
 
 > Homework 5 assigned. **Due 4/14/2023** [hw5.pdf](hw5.pdf), [hw5.Rmd](hw5.Rmd). 
 
-## Week 12: Software packages [tentative] 
+## Week 12: 
 
-> Project check-ins. 
+### Day 1: MLE for graphical models 
+[Lecture 20 PDF](lecture20-graphicalModels-part3.pdf)
+
+	* Insert from Carlos Amendola: [slides](lecture20-end-bits-from-CarlosAmendola-MLgraphical-dragged.pdf)
+
+> Project check-ins.  **please sign up for check-in time. Zoom? in-person?** 
 
 ## Week 13: Project presentations in class 
 
 > Homework 6 assigned. 
 
-## Week 14: project writing focus time 
+## Week 14: project writing focus time; Software packages [tentative] 
 
 * **Note** This week, lectures will be modified, as I am traveling to [BIRS](https://www.birs.ca/events/2023/5-day-workshops/23w5070). 
 
