@@ -222,7 +222,7 @@ Lecture by Miles Bakenhus. Notes forthcoming.
 ### Day 1: MLE for graphical models 
 [Lecture 20 PDF](lecture20-graphicalModels-part3.pdf)
 
-	* Insert from Carlos Amendola: [slides](lecture20-end-bits-from-CarlosAmendola-MLgraphical-dragged.pdf)
+* Insert from Carlos Amendola: [slides](lecture20-end-bits-from-CarlosAmendola-MLgraphical-dragged.pdf)
 
 > Project check-ins.  **please sign up for check-in time. Zoom? in-person?** 
 
