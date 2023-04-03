@@ -224,7 +224,10 @@ Lecture by Miles Bakenhus. Notes forthcoming.
 
 * Insert from Carlos Amendola: [slides](lecture20-end-bits-from-CarlosAmendola-MLgraphical-dragged.pdf)
 
-> Project check-ins.  **please sign up for check-in time. Zoom? in-person?** 
+### Day 2: Project check-ins. 
+
+Status updates and help on projects. In person, during class time, in office RE208. 
+
 
 ## Week 13: Project presentations in class 
 
