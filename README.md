@@ -240,6 +240,8 @@ Here are the steps to complete the project assignment:
 
 ### Day 1: hidden variable graphical models
 
+Lecture 21 will be written on the white board. 
+
 Material: section 14.2 from the textbook; it revolves around a running example of relating hidden variables to instrumental variables and mixed graphs. 
 
 ### Day 2: tbd. 
