@@ -226,20 +226,56 @@ Lecture by Miles Bakenhus. Notes forthcoming.
 
 ### Day 2: Project check-ins. 
 
-Status updates and help on projects. In person, during class time, in office RE208. 
+Status updates and help on projects. *In person*, during class time, in office RE208. 
+
+See post #82 on Campuswire:
+Here are the steps to complete the project assignment: 
+1. sign up your team for a day to present (see below for dates);
+2. prepare the slides (or notes to write on board if that's what you prefer) for your presentation day; 
+3. prepare the project report draft, and either:  (a) **post** your project report draft here **on Campuswire** so that others can comment (anonymously) about it; or (b) **print** at least 6 copies so you can get feedback from other students in the class on the day of your presentation. **Deadline** for posting/sharing drafts is **your presentation day**. 
+4. after your presentation, take the feedback you get from others to improve your final project report as necessary.  Final report is **due** on Friday, May 5th, at 5pm. You are more than welcome to submit your final project report to me before this deadline, as soon as you are done. 
 
 
-## Week 13: Project presentations in class 
+## Week 13: Hidden variables
+
+### Day 1: hidden variable graphical models
+
+Material: section 14.2 from the textbook; it revolves around a running example of relating hidden variables to instrumental variables and mixed graphs. 
+
+### Day 2: tbd. 
 
 > Homework 6 assigned. 
 
-## Week 14: project writing focus time; Software packages [tentative] 
+## Week 14: Project focus (?)
 
-* **Note** This week, lectures will be modified, as I am traveling to [BIRS](https://www.birs.ca/events/2023/5-day-workshops/23w5070). 
+### Day 1: project check-ins 
 
-## Week 15:  lecture topic: overflow, tbd. 
+<!-- Status updates, sharing slides and/or write-up drafts for early comment and feedback. **Via Zoom.**. --> 
+Monday, April 17, will be used again for project check-ins, which will this time take place over Zoom. The Meeting ID information will be sent separately, and each team will sign up for 10 minutes (similar to this week in person), you can use the time to share a draft of your slides, report, any issues that come up, etc.  
 
-Semester wrap-up! 
+### Day 2: tbd. [see FINALS WEEK note below] 
+
+* **Note** This week, meetings/lecture time will be on zoom as I am traveling to [BIRS](https://www.birs.ca/events/2023/5-day-workshops/23w5070). 
+
+## Week 15: Overflow & wrap-up 
+
+### Day 2: project presentations. 
+
+**Wednesday, April 26, 11:25-12:40pm** project presentations for 3-4 projects. 
+
+* Team 5 (DAGs): April 26th, 11:30 am 
+
+## Finals week: tbd
+
+Thursday 2-4 pm, project presentations [back-up time slot]
+
+* finals week: **Thursday, May 4, 2-4pm** project presentations for 2-3 projects. 
+* **Important**: If nobody wants to show up during the finals week, then we need at least 2 projects to be presented on **Wednesday, April 19, 11:25-12:40**. If there are teams willing to do this, please just claim the date in the comments! 
+
+* team ?? 
+* team ??
+
+
 	
 
 ---- 
