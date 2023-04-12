@@ -244,7 +244,11 @@ Lecture 21 will be written on the white board.
 
 Material: section 14.2 from the textbook; it revolves around a running example of relating hidden variables to instrumental variables and mixed graphs. 
 
-### Day 2: tbd. 
+### Day 2: hidden variables, identifiability, and model usefulness
+
+Lecture 22 will also be written on the white board. 
+
+Material: section 14.2, and then continuing into selection of several examples/results from chapter 16. 
 
 > Homework 6 assigned. 
 
