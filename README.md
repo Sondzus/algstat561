@@ -257,23 +257,26 @@ Monday, April 17, will be used again for project check-ins, which will this time
 
 * **Note** This week, meetings/lecture time will be on zoom as I am traveling to [BIRS](https://www.birs.ca/events/2023/5-day-workshops/23w5070). 
 
-## Week 15: Overflow & wrap-up 
+## Week 15: Overflow & wrap-up; final presentations, part 1
 
-### Day 2: project presentations. 
+### Day 2: project presentations on Wednesday, April 26, 11:25-12:40pm 
 
-**Wednesday, April 26, 11:25-12:40pm** project presentations for 3-4 projects. 
+<!--** project presentations for 3-4 projects. -->
 
-* Team 5 (DAGs): April 26th, 11:30 am 
+#### Confirmed team presentations
 
-## Finals week: tbd
+* Team 5 (DAGs)
+* Team 3 (Conditional Independence of Stocks given US Dollar index)
 
-Thursday 2-4 pm, project presentations [back-up time slot]
+## Finals week: final presentations, part 2
 
-* finals week: **Thursday, May 4, 2-4pm** project presentations for 2-3 projects. 
-* **Important**: If nobody wants to show up during the finals week, then we need at least 2 projects to be presented on **Wednesday, April 19, 11:25-12:40**. If there are teams willing to do this, please just claim the date in the comments! 
+#### Thursday, May 4th, 2-3 pm, project presentations confirmed
 
-* team ?? 
-* team ??
+* Team 2 (data analytics) 
+* 
+
+> finals week: **Thursday, May 4, 2-4pm** project presentations for 2-3 projects.  **Important**: If nobody wants to show up during the finals week, then we need at least 2 projects to be presented on **Wednesday, April 19, 11:25-12:40**. If there are teams willing to do this, please just claim the date in the comments! 
+
 
 
 	
