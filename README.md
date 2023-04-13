@@ -250,7 +250,7 @@ Lecture 22 will also be written on the white board.
 
 Material: section 14.2, and then continuing into selection of several examples/results from chapter 16. 
 
-> Homework 6 assigned. 
+> Homework 6 assigned.  **Due 4/27/2023** [hw6.pdf](hw6.pdf). 
 
 ## Week 14: Project focus (?)
 
