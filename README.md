@@ -252,7 +252,7 @@ Material: section 14.2, and then continuing into selection of several examples/r
 
 > Homework 6 assigned.  **Due 4/27/2023** [hw6.pdf](hw6.pdf). 
 
-## Week 14: Project focus (?)
+## Week 14: Project focus and hw6 work
 
 ### Day 1: project check-ins 
 
