@@ -259,11 +259,17 @@ Material: section 14.2, and then continuing into selection of several examples/r
 <!-- Status updates, sharing slides and/or write-up drafts for early comment and feedback. **Via Zoom.**. --> 
 Monday, April 17, will be used again for project check-ins, which will this time take place over Zoom. The Meeting ID information will be sent separately, and each team will sign up for 10 minutes (similar to this week in person), you can use the time to share a draft of your slides, report, any issues that come up, etc.  
 
-### Day 2: tbd. [see FINALS WEEK note below] 
+### Day 2: Final notes on identifiability. 
 
 * **Note** This week, meetings/lecture time will be on zoom as I am traveling to [BIRS](https://www.birs.ca/events/2023/5-day-workshops/23w5070). 
+* The asynchronous activities for this lecture were shared via video on blackboard (zoom recording). 
 
 ## Week 15: Overflow & wrap-up; final presentations, part 1
+
+
+### Day 1: coures wrap-up: lessons learned. 
+
+**Zoom.**
 
 ### Day 2: project presentations on Wednesday, April 26, 11:25-12:40pm 
 
