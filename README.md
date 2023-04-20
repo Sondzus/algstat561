@@ -285,7 +285,8 @@ Monday, April 17, will be used again for project check-ins, which will this time
 #### Thursday, May 4th, 2-3 pm, project presentations confirmed
 
 * Team 2 (data analytics) 
-* 
+* Team 4 (How good are algebraic Markov Chains)
+* Team 6 (uncovering proximity of chromosome territories)
 
 > finals week: **Thursday, May 4, 2-4pm** project presentations for 2-3 projects.  **Important**: If nobody wants to show up during the finals week, then we need at least 2 projects to be presented on **Wednesday, April 19, 11:25-12:40**. If there are teams willing to do this, please just claim the date in the comments! 
 
