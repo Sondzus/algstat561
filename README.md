@@ -267,9 +267,20 @@ Monday, April 17, will be used again for project check-ins, which will this time
 ## Week 15: Overflow & wrap-up; final presentations, part 1
 
 
-### Day 1: coures wrap-up: lessons learned. 
+### Day 1: on to causal discovery with graphical models! 
 
-**Zoom.**
+Since this lecture needs to be virtual, we will make it asynchronous. In lieu of the live lecture, I invite you to please watch [this seminar lecture](https://sites.google.com/view/algstatsonline/past-talks-and-recordings#h.6op0afli23pa).
+**It is aimed at a student audience**. 
+The lecture is 1 hour long. 
+It is a nice wrap-up for **causal discovery**, relating directly to and building on our most recent lectures on graphical models and conditional independence. 
+
+There is both a YouTube video link and slides that you can look at. 
+
+> - Speaker:  Liam Solus (KTH)
+> - Title: On the Geometry of Causal Discovery 
+> - Abstract: The basic problem of causal discovery is to learn, in the form of a directed acyclic graph (DAG), the cause-effect relations that hold within a system of random variables based solely on data drawn from their underlying joint distribution.  While a variety of approaches to this problem have been explored, algorithms that greedily transform one candidate DAG into another given a fixed set of moves have been particularly successful.  In this talk, we will observe that the standard greedy approaches to causal discovery are all one and the same from a geometric perspective: they are each a different type of greedy edge-walk along a specific convex polytope.  We will see how the method of proof for this result offers natural extensions of classical greedy algorithms, extensions that tend to perform better on simulated data.  We will end with a discussion of the doors opened by this result: a new direction of research in discrete geometry for better causal discovery methods.  
+
+
 
 ### Day 2: project presentations on Wednesday, April 26, 11:25-12:40pm 
 
