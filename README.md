@@ -279,6 +279,7 @@ Monday, April 17, will be used again for project check-ins, which will this time
 
 * Team 5 (DAGs)
 * Team 3 (Conditional Independence of Stocks given US Dollar index)
+* Team 1 
 
 ## Finals week: final presentations, part 2
 
