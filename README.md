@@ -1,6 +1,6 @@
 ## Course information
 
-Math 561 is a graduate-level course on algebraic and geometric methods in statistics. Course homepage is [here](https://www.sonjapetrovicstats.com/teaching/561sp23), containing detailed info on the material, grading, etc. 
+Math 561 is a graduate-level course on algebraic and geometric methods in statistics. Course homepage is [here](https://www.sonjapetrovicstats.com/teaching/mathstat-561-spring2026), containing detailed info on the material, grading, etc. 
 
 This page keeps track of course notes, material covered, homework schedule, and other relevant links. Unlike the static course homepage, this one is updated weekly. 
 
