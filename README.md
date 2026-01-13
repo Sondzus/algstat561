@@ -15,7 +15,7 @@ This page keeps track of course notes, material covered, homework schedule, and 
     * [notes version of the slides above](lecture1handout.html) <-- same content as slides
 * [lecture 2 content plan](lecture2.html)
  
-> Homework 1 assigned. [due 1/18/2023->1/24/2023](hw1.pdf)
+> Homework 1 assigned. [due 1/25/2026](hw1.pdf)
     
 
 	
