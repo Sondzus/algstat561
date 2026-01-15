@@ -13,12 +13,21 @@ This page keeps track of course notes, material covered, homework schedule, and 
 * [lecture 1 slides PDF](lecture1.pdf)
     * Additional notes on reasoning with data are written live. 
     * [notes version of the slides above](lecture1handout.html) <-- same content as slides
-* [lecture 2 content plan](lecture2.html)
+* [lecture 2 content & plan](lecture2.html)
+    * additional examples shown in the lecture: [biased coin](lecture2-biased-coin-example-eliana.pdf), [3-way-independence](lecture2-independence3example-bernd.pdf)
+    
  
 > Homework 1 assigned. [due 1/27/2026](hw1.pdf)
     
+## Week 2 - statistical models, independence, and notation
 
-	
+    
+* [lecture 3 slides PDF](lecture3.pdf)
+	  * In-class [worksheet 1](ws1-lec2.pdf)
+    * [About Sampling Distributions](lecture3-additionalhandout-563-SamplingDistributions.html)
+    * [About marginalizing - additional notes](lecture3-additionalhandout-marginalizing.html) 
+* Lecture 4 coming up soon. 
+
 
 ---- 
 
