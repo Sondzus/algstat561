@@ -26,9 +26,9 @@ This page keeps track of course notes, material covered, homework schedule, and 
 	  * In-class [worksheet 1](ws1-lec2.pdf)
     * [About Sampling Distributions](lecture3-additionalhandout-563-SamplingDistributions.html)
     * [About marginalizing - additional notes](lecture3-additionalhandout-marginalizing.html) 
-* Lecture 4 coming up soon. 
-
-
+* [Lecture 4 slides PDF](lecture4.pdf)
+    * In-class [worksheet 2](ws2-lec4.pdf) -- may begin working on this, may take longer than one lecture.
+    
 ---- 
 
 # Appendix
