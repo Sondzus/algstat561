@@ -28,7 +28,16 @@ This page keeps track of course notes, material covered, homework schedule, and 
     * [About marginalizing - additional notes](lecture3-additionalhandout-marginalizing.html) 
 * [Lecture 4 slides PDF](lecture4.pdf)
     * In-class [worksheet 2](ws2-lec4.pdf) -- may begin working on this, may take longer than one lecture.
+   
+   
+## Week 3 - algebraic varieties (what polynomials define), and basic computations
+
     
+* [lecture 5a slides PDF](lecture5a.pdf)
+* [lecture 5b slides PDF](lecture5b.pdf)
+	  * [About Sampling Distributions](lecture3-additionalhandout-563-SamplingDistributions.html)
+    * [About marginalizing - additional notes](lecture3-additionalhandout-marginalizing.html) 
+
 ---- 
 
 # Appendix
