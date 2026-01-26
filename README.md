@@ -35,8 +35,6 @@ This page keeps track of course notes, material covered, homework schedule, and 
     
 * [lecture 5a slides PDF](lecture5a.pdf)
 * [lecture 5b slides PDF](lecture5b.pdf)
-	  * [About Sampling Distributions](lecture3-additionalhandout-563-SamplingDistributions.html)
-    * [About marginalizing - additional notes](lecture3-additionalhandout-marginalizing.html) 
 
 ---- 
 
