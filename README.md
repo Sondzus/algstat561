@@ -34,7 +34,9 @@ This page keeps track of course notes, material covered, homework schedule, and 
 
     
 * [lecture 5a slides PDF](lecture5a.pdf)
+    * Make sure you read Chapter 3 [the algebra primer], focusing on sections 3.1 and 3.2. I will go over some of these in class this week!
 * [lecture 5b slides PDF](lecture5b.pdf)
+
 
 ---- 
 

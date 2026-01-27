@@ -1,7 +1,7 @@
 ---
-title: "Math 561 Assignment 2^[Algebraic and Geometric Methods in Statistics, Spring 2023]"
-author: "SP, using Miles' template!"
-date: "Due date: 10 Feb 2023 -- extended to 13 Feb 2023."
+title: "Math 561 Assignment 2^[Algebraic and Geometric Methods in Statistics, Spring 2026]"
+author: ""
+date: "Due date: 19 Feb 2026."
 output: 
       pdf_document: 
             includes:
