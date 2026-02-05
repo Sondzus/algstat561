@@ -35,8 +35,15 @@ This page keeps track of course notes, material covered, homework schedule, and 
     
 * [lecture 5a slides PDF](lecture5a.pdf)
     * Make sure you read Chapter 3 [the algebra primer], focusing on sections 3.1 and 3.2. I will go over some of these in class this week!
-* [lecture 6 slides PDF](lecture6.pdf)
+*  [lecture 6 slides PDF](lecture6.pdf)
 
+## Week 4 - Statistics primer intro to MLE
+
+* [lecture 7](lecture7.pdf) 
+  * including related book readings [here](Lecture7b-suppl-fromBook.pdf)
+* [lecture 8] 
+  * Student finishes the previous lecture by presenting the MLE for the independence model of 2 random variables. 
+  * posted HW2, and discussed any questions on worksheets. 
 
 ---- 
 
