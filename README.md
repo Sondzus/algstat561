@@ -41,9 +41,13 @@ This page keeps track of course notes, material covered, homework schedule, and 
 
 * [lecture 7](lecture7.pdf) 
   * including related book readings [here](Lecture7b-suppl-fromBook.pdf)
-* [lecture 8] 
+* MLE for the model of independence of 2 random variables 
   * Student finishes the previous lecture by presenting the MLE for the independence model of 2 random variables. 
-  * posted HW2, and discussed any questions on worksheets. 
+  * posted HW2
+  
+## Week 5
+
+* I have to decide if we will first talk about likelihood inference, or exponential families! 
 
 ---- 
 
