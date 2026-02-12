@@ -60,6 +60,13 @@ This page keeps track of course notes, material covered, homework schedule, and 
 
 What are ideals used for, actually?  And examples to complete last week. 
 
+* [lecture 10](lecture10-LogAffineModelsLogLinearIdeal-part2.pdf)
+* [lecture 11](lecture11-likelihood-inference.pdf)
+    * there's an interlude on likelihood inference w/ Lagrange multipliers [here](lecture11-interlude-LangrangeMultipliers.pdf)
+
+# Week 7
+
+Exact testing for discrete exponential families. 
 
 ---- 
 
