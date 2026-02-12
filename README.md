@@ -43,6 +43,7 @@ This page keeps track of course notes, material covered, homework schedule, and 
   * including related book readings [here](Lecture7b-suppl-fromBook.pdf)
 * MLE for the model of independence of 2 random variables 
   * Student (Solomon) finishes the previous lecture by presenting the MLE for the independence model of 2 random variables. 
+  [notes](Lecture7-part2-Gbenga-Proposition-5.3.8.pdf)
   * posted HW2
   
 ## Week 5
