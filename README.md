@@ -56,6 +56,8 @@ This page keeps track of course notes, material covered, homework schedule, and 
 
 # Week 6 
 
+* In-class [worksheet 3](ws3-lec8.pdf), finish at home. 
+
 What are ideals used for, actually?  And examples to complete last week. 
 
 
