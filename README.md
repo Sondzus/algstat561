@@ -42,12 +42,21 @@ This page keeps track of course notes, material covered, homework schedule, and 
 * [lecture 7](lecture7.pdf) 
   * including related book readings [here](Lecture7b-suppl-fromBook.pdf)
 * MLE for the model of independence of 2 random variables 
-  * Student finishes the previous lecture by presenting the MLE for the independence model of 2 random variables. 
+  * Student (Solomon) finishes the previous lecture by presenting the MLE for the independence model of 2 random variables. 
   * posted HW2
   
 ## Week 5
 
-* I have to decide if we will first talk about likelihood inference, or exponential families! 
+<!--I have to decide if we will first talk about likelihood inference, or exponential families! --> 
+
+* [lecture 8](lecture8.pdf)
+* [lecture 9](lecture9-LogAffineModelsLogLinearIdeal-part1.pdf)
+
+
+# Week 6 
+
+What are ideals used for, actually?  And examples to complete last week. 
+
 
 ---- 
 
