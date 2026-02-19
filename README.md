@@ -38,13 +38,14 @@ This page keeps track of course notes, material covered, homework schedule, and 
 *  [lecture 6 slides PDF](lecture6.pdf)
 
 ## Week 4 - Statistics primer intro to MLE
-
+  
 * [lecture 7](lecture7.pdf) 
   * including related book readings [here](Lecture7b-suppl-fromBook.pdf)
 * MLE for the model of independence of 2 random variables 
   * Student (Solomon) finishes the previous lecture by presenting the MLE for the independence model of 2 random variables. 
   [notes](Lecture7-part2-Gbenga-Proposition-5.3.8.pdf)
-  * posted HW2
+
+> Homework 2 assigned. [due 2/19/2026](hw2.pdf)
   
 ## Week 5
 
