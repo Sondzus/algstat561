@@ -69,6 +69,16 @@ What are ideals used for, actually?  And examples to complete last week.
 
 Exact testing for discrete exponential families. 
 
+* [lecture 12](lecture12-exactTesting.pdf)
+* [lecture 13](lecture13-exactTesting-part2.pdf)
+
+# Week 8
+
+On the first day, let's discuss your solutions to Homework set 2! 
+
+On the second day: topic TBD.
+
+
 ---- 
 
 # Appendix
