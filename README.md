@@ -55,7 +55,7 @@ This page keeps track of course notes, material covered, homework schedule, and 
 * [lecture 9](lecture9-LogAffineModelsLogLinearIdeal-part1.pdf)
 
 
-# Week 6 
+## Week 6 
 
 * In-class [worksheet 3](ws3-lec8.pdf), finish at home. 
 
@@ -65,14 +65,14 @@ What are ideals used for, actually?  And examples to complete last week.
 * [lecture 11](lecture11-likelihood-inference.pdf)
     * there's an interlude on likelihood inference w/ Lagrange multipliers [here](lecture11-interlude-LangrangeMultipliers.pdf)
 
-# Week 7
+## Week 7
 
 Exact testing for discrete exponential families. 
 
 * [lecture 12](lecture12-exactTesting.pdf)
 * [lecture 13](lecture13-exactTesting-part2.pdf)
 
-# Week 8
+## Week 8
 
 On the first day, let's discuss your solutions to Homework set 2! 
 
