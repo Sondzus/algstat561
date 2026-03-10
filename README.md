@@ -87,10 +87,12 @@ Exact testing for discrete exponential families.
 
 Are there any other issues with contingency tables we need to worry about? 
 
-* Cell bounds and disclosure limitation 
+* Cell bounds and disclosure limitation, [lecture 15](lecture15-BoundsOnCellEntries.pdf)
 * Sampling bounds and structural zeros 
 
+> Homework 4 assigned. [due 4/??/2026](hw4.pdf)
 
+## 
 ---- 
 
 # Appendix

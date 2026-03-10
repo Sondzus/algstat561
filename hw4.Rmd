@@ -1,7 +1,7 @@
 ---
-title: "Math 561 Assignment 4^[Algebraic and Geometric Methods in Statistics, Spring 2023]"
+title: "Math 561 Assignment 4^[Algebraic and Geometric Methods in Statistics, Spring 2026]"
 author: ""
-date: "Due date: 13 Mar 2023."
+date: "Due date: 26 Mar 2026."
 output: 
       pdf_document: 
             includes:
