@@ -82,8 +82,14 @@ Exact testing for discrete exponential families.
 
 ## Week 9 
 
+
+* In-class [worksheet 4](ws4-lec11.pdf), finish at home. I should have posted this last week! 
+
+Are there any other issues with contingency tables we need to worry about? 
+
 * Cell bounds and disclosure limitation 
-* 
+* Sampling bounds and structural zeros 
+
 
 ---- 
 
