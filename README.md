@@ -74,10 +74,16 @@ Exact testing for discrete exponential families.
 
 ## Week 8
 
-On the first day, let's discuss your solutions to Homework set 2! 
+* On the first day, we discussed your solutions to Homework set 2! 
+* On the second day, we defined Markov bases, discussed the Fundamental Theorem, some basic implications, and some examples of computing from Worksheets & homework. 
+[lecture 14](lecture14-FTMB.pdf)
 
-On the second day: topic TBD.
+> Homework 3 assigned. [due 3/24/2026](hw3.pdf)
 
+## Week 9 
+
+* Cell bounds and disclosure limitation 
+* 
 
 ---- 
 
