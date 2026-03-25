@@ -103,6 +103,10 @@ We are staring to discuss graphical models!
 * Background and notation, global/local/pairwise Markov properties. For [lecture17](lecture17-graphicalModels-IntroductionNotes.pdf), we covered the undirected models from the PDF notes -- the first 7 pages.  Please also see the material from [lecture 17, part 2](lecture17b-graphicalModels.pdf)
 *  lecture 18
 
+> Homework 5 assigned. [due 4/14/2026](hw5.pdf) 
+
+> Homework 6 assigned. [due 5/4/2026](hw6.pdf) Early submission most welcome! 
+
 ## Week 11
  
 * 3/31   lecture 19 
