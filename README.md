@@ -101,7 +101,37 @@ Welcome back from Spring Break week! :)
 We are staring to discuss graphical models! 
 
 * Background and notation, global/local/pairwise Markov properties. For [lecture17](lecture17-graphicalModels-IntroductionNotes.pdf), we covered the undirected models from the PDF notes -- the first 7 pages.  Please also see the material from [lecture 17, part 2](lecture17b-graphicalModels.pdf)
-* 
+*  lecture 18
+
+## Week 11
+ 
+* 3/31   lecture 19 
+* 4/2(at Simons; online check-ins; time for project work)
+
+## Week 12
+
+Project presentations begin! 
+
+* 4/7 Priscilla 
+* 4/9 Nishanth
+
+## Week 13 
+
+* 4/14 Megan
+* 4/16 Minjung 
+
+## Week 14
+
+* 4/21
+* 4/23
+
+## Week 15
+
+* 4/28
+* 4/30
+
+## Final exams week
+Monday May 4th - time slot as needed (10:30am-12:30pm)
 
 ## 
 ---- 
