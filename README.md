@@ -90,7 +90,18 @@ Are there any other issues with contingency tables we need to worry about?
 * Cell bounds and disclosure limitation, [lecture 15](lecture15-BoundsOnCellEntries.pdf)
 * Sampling bounds and structural zeros 
 
-> Homework 4 assigned. [due 4/??/2026](hw4.pdf)
+> Homework 4 assigned. [due 4/2/2026](hw4.pdf) 
+
+* Hidden variable models. We discussed the hidden variables, their meaning, their use, and algebraic/geometric interpretation. We basically went over these [lecture notes](lecture16-mixtures-part1fromElianaDuarte.pdf). You may find the following student presentation from KTH also very insightful [extra notes; see page 3!](lecture16-mixtures-p3motivation-soluscourse.pdf)
+
+## Week 10
+
+Welcome back from Spring Break week! :) 
+
+We are staring to discuss graphical models! 
+
+* Background and notation, global/local/pairwise Markov properties. For [lecture17](lecture17-graphicalModels-IntroductionNotes.pdf), we covered the undirected models from the PDF notes -- the first 7 pages.  Please also see the material from [lecture 17, part 2](lecture17b-graphicalModels.pdf)
+* 
 
 ## 
 ---- 
