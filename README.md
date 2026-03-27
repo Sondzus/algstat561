@@ -116,7 +116,7 @@ We are staring to discuss graphical models!
 
 Project presentations begin! 
 
-* 4/7 Priscilla 
+* 4/7 Priscilla  ""
 * 4/9 Nishanth
 
 ## Week 13 
