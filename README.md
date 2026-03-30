@@ -101,7 +101,8 @@ Welcome back from Spring Break week! :)
 We are staring to discuss graphical models! 
 
 * Background and notation, global/local/pairwise Markov properties. For [lecture17](lecture17-graphicalModels-IntroductionNotes.pdf), we covered the undirected models from the PDF notes -- the first 7 pages.  Please also see the material from [lecture 17, part 2](lecture17b-graphicalModels.pdf)
-*  lecture 18
+*  lecture 18: we covered Gaussianp[lecture18-graphicalModels-Gaussian.pdf] graphical models (the main statement is that non-edges of the graph correspond to the zeros of the concentration matrix; see book!)
+  * Then we went over section 2.2 in [these same notes from lect17](lecture17-graphicalModels-IntroductionNotes.pdf): why do we need directed graphical models? and the definitions of the 3 directed Markov properties (pairwise, local, global).
 
 > Homework 5 assigned. [due 4/14/2026](hw5.pdf) 
 
@@ -109,19 +110,21 @@ We are staring to discuss graphical models!
 
 ## Week 11
  
-* 3/31   lecture 19 
+* 3/31   lecture 19: parametrization of graphical models. 
+  * [slides for today + more!](Lecture19-insert-book-AlgStas-Example13.4.1forLecture19.pdf)
+  * [book excerpt](lecture19-graphicalModels-parametrizations-andMore-etc.pdf)
 * 4/2(at Simons; online check-ins; time for project work)
 
 ## Week 12
 
 Project presentations begin! 
 
-* 4/7 Priscilla  ""
-* 4/9 Nishanth
+* 4/7 Priscilla  "Uncovering proximity of chromozome territories using classical algebraic staitstics"
+* 4/9 Nishanth 
 
 ## Week 13 
 
-* 4/14 Megan
+* 4/14 Megan "Algebra Primer & Model Selection Examples"
 * 4/16 Minjung 
 
 ## Week 14
@@ -131,7 +134,7 @@ Project presentations begin!
 
 ## Week 15
 
-* 4/28
+* 4/28 Tawfiq 
 * 4/30
 
 ## Final exams week
