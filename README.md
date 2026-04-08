@@ -134,8 +134,8 @@ Project presentations begin!
 
 ## Week 15
 
-* 4/28 Tawfiq 
-* 4/30
+* 4/28 
+* 4/30 Tawfiq 
 
 ## Final exams week
 Monday May 4th - time slot as needed (10:30am-12:30pm)
