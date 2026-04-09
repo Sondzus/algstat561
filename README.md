@@ -119,13 +119,13 @@ We are staring to discuss graphical models!
 
 Project presentations begin! 
 
-* 4/7 Priscilla  "Uncovering proximity of chromozome territories using classical algebraic staitstics"
-* 4/9 Nishanth 
+* 4/7 Priscilla Ama Yinzime: "Uncovering proximity of chromozome territories using classical algebraic staitstics"
+* 4/9 Nishanth Srinivas Gurjar
 
 ## Week 13 
 
-* 4/14 Megan "Algebra Primer & Model Selection Examples"
-* 4/16 Minjung 
+* 4/14 Megan Millet: "Algebra Primer & Model Selection Examples"
+* 4/16 Minjung Kang
 
 ## Week 14
 
@@ -134,8 +134,8 @@ Project presentations begin!
 
 ## Week 15
 
-* 4/28 
-* 4/30 Tawfiq 
+* 4/28 Gbenga Solomon 
+* 4/30 Tawfiq Abusara
 
 ## Final exams week
 Monday May 4th - time slot as needed (10:30am-12:30pm)
