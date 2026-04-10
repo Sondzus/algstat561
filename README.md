@@ -106,6 +106,8 @@ We are staring to discuss graphical models!
 
 > Homework 5 assigned. [due 4/14/2026](hw5.pdf) 
 
+  * See pages 2-13 from [lecture 20](lecture20-graphicalModels-MLE.pdf) as a reference for problem #5. 
+
 > Homework 6 assigned. [due 5/4/2026](hw6.pdf) Early submission most welcome! 
 
 ## Week 11
