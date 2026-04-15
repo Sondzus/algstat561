@@ -131,8 +131,8 @@ Project presentations begin!
 
 ## Week 14
 
-* 4/21
-* 4/23
+* 4/21 we will go over Lecture 20 slides and wrap up other "loose ends" from both class topics and project topics that have come up so far! 
+* 4/23 Jiya Sheetal Rathi: "Data analysis using algstat R package - GoF tests"
 
 ## Week 15
 
